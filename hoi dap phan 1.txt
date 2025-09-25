@@ -1,0 +1,252 @@
+thực hành nhiều, làm bài tập về oop nhiều vào
+
+object: class, hằng, biến
+
+các tính chất lập trình hướng đối tượng:
+đóng gói, kế thừa, đa hình, trừu tượng
+
+Tỷ Nguyễn Thành​​e mới học blazor server, đang gặp vấn đề là cứ mỗi table là phải viết thủ công phân trang và tìm kiếm realtime, viết lại mỗi form như vậy thì mất thời gian quá
+Đáp: chuyển những giao diện có chức năng giống nhau thành một component, ví dụ: add & edit
+AddOrUpdateBook.razor
+Tỷ Nguyễn Thành​
+​còn dùng mudtable hoặc datatable của bootstrap thì khi viết SQL thì phải select * from, nhưng như vậy thì với database 1 triệu bản ghi chẳng hạn thì nghẽn hệ thống mất
+Đáp: linq, store procedure
+
+Hung Duy​​Anh cho e xin ít kinh nghiệm về ngôn ngữ cssgo với ạ
+Đáp: chưa hiểu câu hỏi ^^, voãi
+
+Tỷ Nguyễn Thành​
+​a thường phân trang, tìm kiếm realtime bằng cách nào v a
+Đáp: chia nó thành nhiều component
+
+đề tài: web truyện tranh bằng nodeJS với mongoDB
+
+kom07​​em hiểu về python hơn, nhưng mà em thấy c++ nhiều ng dùng hơn có nên chuyển qua không anh
+đáp: ngược lại python dùng nhiều trong xử lý data (US/UK)
+c++: dùng nhiều trong auto car,  xe tự lái (thị trường Hàn Quốc)
+
+
+google collab (học và nghiên cứu)
+
+
+
+Tỷ Nguyễn Thành​
+​vậy nếu dụng blazor server, ko web api là k tái sử dụng tìm kiếm realtime, phân trang này kia được à a, phải code chay?
+đáp: blazor hero
+https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
+
+
+
+Tỷ Nguyễn Thành​
+​blazor hero có sài được blazor server k a, hay chỉ webassembly api
+đáp: dùng bản cũ sẽ có
+
+Độ Bùi Đình​​Microsoft word đời cũ hả
+đáp: bản 2007 ^^
+
+Độ Bùi Đình​
+​Nếu sau này nâng cấp máy nên mua pc i5 có card để code nặng
+đáp: xeon e5 (2 cpu)
+128gb
+hp nvidia 2gb: lập trình game unity 2d/3d, chơi game 2d nhẹ
+hp nvidia 8gb
+5090: 100 triệu TT
+
+Linus Torvalds
+
+Độ Bùi Đình​
+​Nếu 10tr thì i5 10400f 1660 super là dùng ổn (mua mới)
+
+SNACK VP​​bro học ngành nào v
+công nghệ thông tin
+(software engine
+công nghệ phần mềm)
+cử nhân
+
+
+cuong khuong​​năm nhất theo lập trình thi đấu có ổn k a
+đáp: quá ok
+
+cuong khuong​​chăc phải làm nhiều bài trên leetcode và codeforces a nhỉ
+đáp: chính xác
+
+google, microsoft, aws chuyên hỏi giải thuật thuật toán
+
+người ta thường luyện leetcode để đi phỏng vấn bigtech + tiếng anh giao tiếp cơ bản
+Câu hỏi trong phỏng vấn Technical:
+- Quy hoạch động (Dynamic Programing hay DP)
+- BFS & DFS - Tree (cây nood) => làm một code c/c++ mô phỏng BFS & DFS
+- Binary Search (thuật toán)
+- Two Pointers (con trỏ)
+- Hashing (mã hóa)
+
+zalo: mời các bạn chuyên tin để đi chung, đi thư viện chung, mạng lan kìa...
+
+
+4kcee​​e ms lên đại học mà bị thụt lùi nhiều so với máy bạn chuyên tin quá 
+đáp: tự luyện code nhiều
+tin 1
+tin 2
+tin 3
+
+
+Độ Bùi Đình​​A có dự định nâng cấp máy chx
+đáp: chưa
+Noxさん​​linux vs windows?
+windows
+
+
+macos: lập trình ios, swift
+
+
+arch linux (dùng bản dựng sẵn của người ta: omarchi)
+
+​​hỏi a ra video set up c++ trên neovim đi @richard
+đap: Noxさん​​neovim thì lazyvim rồi cài plugin th
+
+Yujihiro​​sếp có thể code thêm project về microservice với sử dụng docker hay tích hợp AI được không sếp
+đáp: chưa được, đang làm seri unity 2d
+
+
+
+KOnjs​
+​em thấy năm nhất mua mac os là ngon nhắt vừa không chơi được game vừa giữ giá :>>
+đáp: nổi nhất lớp, nổi nhất khoa
+
+Noxさん​​năm nhất mua Thinkpad ngon nhất chứ
+cùng ý kiến
+
+4kcee​​anh ơi tốc đọ gõ 10 ngón là bao nhiêu word per minute vậy anh 
+đáp: https://www.typingstudy.com/vi-vietnamese_vni-3/
+
+Noxさん​​hãy chơi combo thinkpad linux, game thì cứ quất minecraft hoặc factorio
+đáp: thích dùng windows hơn, không chơi game
+
+Noxさん​​minecraft thì chạy mượt hơn trên linux, factorio thì chạy native
+chừ mới biết
+
+Nguyễn Thanh Vũ​​Chán qqué
+đáp: học đi
+
+nestjs: backend typescript
+next: full stack
+
+
+Nguyễn Thanh Vũ​​Anh có tự hỏi tại sao nta thích xài anaconda hơn pip ko a
+tích hợp nhiều trình code và lưu được bài tập (dễ quản lý bài tập cho người mới)
+Nguyễn Thanh Vũ​​Anh xài lovable chs đi anh
+https://lovable.dev/ 
+generate giao diện react
+
+Tài Đặng Nguyễn Thế​​2k10 nên theo lập trình ko ạ:
+đáp: nên học, tại sao không
+1, lập trình thủ tục hàm
+2, lập trình hướng đối tượng
+3, lập trình với AI => công việc sẽ nhiều hơn
+
+Nguyễn Văn Thắng​​e đang asp mới chỉ tương tác với swagger thôi a
+Nguyễn Văn Thắng​​khi nào thì mình có thể làm giao diện hả a
+đáp: học làm giao diện ngay và luôn
+
+
+
+Huy Hi​​hello a, em định theo an ninh mạng thì nên học ngôn ngữ lập trình nào trước ạ
+đáp:
+- Python
+- Biết dùng cmd linux(biết dùng linux)
+- c/c++
+- wsl (cài cho windows???) Windows Subsystem Linux
+- vmware
+
+Huy Hoàng​​máy mạnh thì cứ tạo VM linux mà vọc vạch
+tạo vps ảo
+vmware
+
+​​nếu Th làm lộ lương của Th thì Th sẽ bị đuổi việc đó, tùy theo hợp đồng =))
+nhà tuyển dụng không thích điều đó
+
+
+react a viết backend bằng gì
+c#
+
+
+​a đang làm freelance hay full time v a
+
+
+Game: Unity C# => cứ thằng này mà phan
+lua (học cho biết)
+
+Tài Đặng Nguyễn Thế​​nếu anh làm game 3d trên unity thì anh học 3d ở đâu
+udemy
+hoặc saigame
+
+
+đáp: https://www.udemy.com/course/unitycourse2/?couponCode=PMNVD2525
+
+video của thịnh giá trị thực hành xem cho vui thôi , chém gió là chính =))
+
+đáp: Thịnh đang làm khóa unity 2d 100 video đang làm được 6 video 3 tháng xong => vừa lý thuyết vừa thực hành, làm một game nhỏ nhỏ
+
+
+Noxさん​​14 tháng 10 là windows 10 bị ngắt ống thở mang tên hỗ trợ đó
+microsoft: mua gói update windows 10 của chúng tôi
+
+
+Tan Tai Nguyen​​làm gì search. ! soi được hết mà theo software-and-game-development
+đáp: lâu quá không dùng 
+
+
+Kiên Trương Trung​​thầy ơi luyện leetcode sao cho tốt z thầy
+đáp: thực hành
+xem trực tiếp giải leetcode
+
+
+
+Hides3ek​​học code c++ trên VS ổn hơn hay VS code ổn hơn ạ
+devc++ cài rồi xài
+codeblock cài rồi xài
+vscode: cài mệt ngủm củ tỏi rồi mới xài được
+vs2022: code c++ ngon, code c => cú pháp mới (not recommand)
+
+Hides3ek​​anh có dùng git hay github không, em đang tìm hiểu anh có thể giải thích nó hoạt động thế nào không ạ
+đáp: git: nơi để upcode và giữa các phiên bản của code để xem lại, recent nếu bị lỗi, làm việc nhóm
+
+Hides3ek​​em đang học đến if và else rồi ạ, anh có chỗ nào luyện nhuyễn cái này không ạ, kiểu bài tập ấy ạ
+Hides3ek​​trong c++ ạ
+search google gặp thằng nào phang thằng đó
+youtube
+
+linux: server git để lưu code và tài liệu cho dự án của khách hàng => devops
+
+
+hội thảo này có online không???
+​​Monthly meetup #5: Cafe CodeCafe Mọt, 147 Đống Đa, Hải Châu, 55000 GDG Cloud Da Nang
+
+
+twitch tv software-and-game-development
+
+vps linux: ubuntu -> rẻ, bảo mật
+deploy wordpress -> chạy ổn định (bigtech)
+
+xài công việc văn phòng: windows (xài 10 năm rồi)
+
+Tan Tai Nguyen​​Task-based asynchronous pattern (TAP) in .NET: Introduction and overview
+Tan Tai Nguyen​​Event-based Asynchronous Pattern (EAP)
+
+Huy Hoàng​
+​theo anh nghành game ở việt nam tương lai có phát triển mạnh không
+đáp: có
+
+Vỹ Nguyễn Chí​​Anh ơi , a s p . net thường anh đẩy lên host nào free vậy a
+đáp: https://somee.com/freeaspnethosting.aspx
+
+https://dummyjson.com/products
+generate product
+
+CWD rồi chạy lệnh jupyter-lab
+Admin@Admin-PC MINGW64 /d/Code$ jupyter-lab
+​cwd = current working directory
+
+
+conda init 
+

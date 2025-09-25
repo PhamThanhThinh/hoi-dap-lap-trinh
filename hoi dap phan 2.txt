@@ -1,0 +1,106 @@
+KOnjs​
+​sublime text là app gì vậy sếp em thấy có trong máy trường 
+đáp: trình editor code giống vscode, bạn nào dùng được vscode thì dùng được sublime text
+
+Satoshi Nakamoto​​đồ án thầy kêu tích hợp AI thì sao anh?, web đọc truyện
+đáp: cào dữ liệu tự động từ máy khác có chọn lọc (được tính toán bởi AI): tự code
+popup chat bot (gọi api)
+đọc truyện tự động + giọng nói AI
+
+
+Tuấn Nguyễn Anh​​Yếu tố quan trọng nhất trong OOP là gì anh ? Khi mình muốn thiết kế một phần mềm thì mình nên đi từ đâu trước ạ ?
+đáp: oop: đóng gói, kế thừa, đa hình, trừu tượng
+private public
+chính đạo: code từ dòng code đầu tiên (phân tích chức năng ...)
+tà đạo: tìm tới phần mềm tương tự rồi code theo (tham khảo code)
+
+hải nguyễn​​nay thầy em cho em quả đè tài dùng kiến trúc microservice, anh cho e 1 tí ý kiến về cái kiến trúc này ạ
+đáp: microservice
+
+Windows App SDK = .NET + WebGL nên nhìn đẹp lắm
+
+UWP = Universal Windows Program
+
+0866439504
+
+Hana Yuuki​​Em làm C và C++ có việc ổn định nhỉ =))
+đáp:
+- nhúng
+- auto car: xe tự lái, xe thông minh
+- game: sdl, opencv, cocos2dx, vulkan
+
+linux, vim code c/c++
+
+game: visual studio 2022 + c++ + sdl (công ty Việt Nam)
+
+Tan Tai Nguyen
+​​để tóc dài râu dài thì có việc ngon hơn :))
+đáp: VN: tóc ngắn, cạo râu, chỉnh chu
+nước ngoài: giỏi giao tiếp tiếng Anh
+
+Vũ Duy Việt ​​em muốn làm 1 con chat bot bằng python anh cho em xin 3 từ khóa ạ
+đáp:
+NLP
+ChatterBot / Rasa
+Flask / FastAPI
+https://aistudio.google.com/
+
+----------------------
+
+câu lệnh cài jupyterlab (bản nâng cấp của jupyternotebook)
+​pip install jupyterlab
+
+Học Rust:
+Viết thử tool: process monitor, port scanner, file encryptor.
+
+
+hải ​​kênh ah chủ đề về gì đó ạ em mới vô nên hơi bỡ ngỡ =)))
+đáp: C#, ASP.NET webform, mvc, core, blazor
+Unity Game 2D
+Chủ yếu hướng dẫn các công nghệ xoay quanh ngôn ngữ C#
+
+web: ASP.NET Webforms, ASP.NET MVC, ASP.NET Core MVC, ASP.NET Core Blazor (html, css, js, C#)
+app (desktop app/mobile app): Blazor hybrid maui (dùng XAML hoặc HTML)
+
+
+hải ​​ah có hướng dẫn về c++ ko ạ tại em cũng mới học nên cũng muốn hỏi đáp vài chỗ ạ =))
+đáp: có, bạn cứ hỏi
+
+
+cơ bản
+variable, data type, if else, input/output
+array, list, string
+functions
+...
+
+hải: ​​hướng đối tượng nghĩa là sao vậy ah
+đáp: Lập trình hướng đối tượng là cách tổ chức code giống với thế giới thực
+
+Nguyễn Văn Thắng​​ae em học asp mà lười làm mấy cái form quá thì mình áp dụng với html , css dc ko a
+đáp:
+ASP.NET Webform: giao diện kéo thả (dùng các item, các control để làm giao diện)
+ASP.NET MVC (.net framework): html css js c#
+ASP.NET Core MVC (.net core): html css js c#
+ASP.NET Core Blazor (.net core): Blazor đóng vai trò là frontend; cũng dùng html css js c# (chủ yếu là c# để xử lý logic)
+
+
+hải ​​thường code thì ah có giới thiệu gì về các môi trường để code ko ah em dùng code::block nhưng em muốn tìm xem có môi trường nào dễ cài mà tối ưu =))
+đáp: code::block, devc++, visual studio 2022/2026 hoặc các bản về trước, vscode (cài MSYS2 vào hệ điều hành), bản mod eclipse code c++ (eclipse mặc định code java), ...​lionC của Jet brains,
+
+
+Nguyễn Văn Thắng​​ko ý là em đang tương tác với swagger muốn kết hợp với giao diện ý a
+đáp: Tan Tai Nguyen
+​thì đó là rest api @Nguyễn Văn Thắng giao diện bạn dùng gì chả dc. html css js thuần, reactjs cũng dc.
+template project là aspnet core api (code api), dùng api thì có aspnet core mvc, aspdotnet core blazor
+
+
+Đức Thắng Hồ​​e dùng c++
+hải ​​em cài cái mys ròi mà trước em cài python rồi h sang c++ nó lại bị lỗi ah ạ
+hải ​​msy
+Đức Thắng Hồ​​cũng đủ cả rồi mà nó còn bị 1 cái lỗi nào nữa á e ko bt chỉnh sao cả 
+đáp: https://www.youtube.com/watch?v=o-AwgI92kbc
+
+
+chạy c++ online
+https://www.onlinegdb.com/online_c++_compiler
+
