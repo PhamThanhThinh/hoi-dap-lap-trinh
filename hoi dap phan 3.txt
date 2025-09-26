@@ -272,3 +272,108 @@ hiện nay Unity đã đa nền tảng chạy được trên Windows, Mac, Linux
 
 về tấn công mạng giả lập thì chưa
 (đội thi về tấn công mạng thì mới học ^^, trên đại học tổ chức cuộc thi)
+
+
+Hung Duy​​Bool e thấy khá thừa thãi 
+đáp: không thừa ^^ :)))
+
+Nguyễn Thanh Nhứt​​giờ tìm việc intern khó quá a ạ, a có chia sẻ gì cho ae không
+đáp: nộp nhiều cv vô
+cv nên viết sát với tin tuyển dụng
+nộp cv vào công ty lớn
+hoặc
+nhờ thầy cô giới thiệu
+hoặc
+đi thực tập theo tua ở trường
+
+
+
+có thể nhờ thầy cô nè
+anh không quen HR
+
+job remote ở Indonesia, Malaysia được không???
+(phải có giao tiếp tiếng Anh ở mức cơ bản, nói chung là phải giao tiếp được)
+remote technical skill:
+.NET Developer
+Java Developer (Akka framework)
+Front End Developer
+Full Stack Developer
+HTML5 Developer
+IOS Developer
+Business Analyst
+Software Developer Engineer in Test
+giờ làm việc: 10:00am -> 7:00pm
+(10 giờ sáng tới 7 giờ tối giờ Philippines
+tức là 10 giờ sáng tới 7 giờ tối giờ VN)
+fulltime
+cái này cũng lâu rồi á
+Thịnh liệt kê ra đây để xem công nghệ người ta yêu cầu và thể hiện rằng công việc remote ở nước cũng có thể xin được á
+
+Quốc Huy Nguyễn​​Em học AI , 4 năm nữa thị trường VN có tiến triển ngành này không ạ , hay em nên học thạc sĩ để kiếm đường làm nước ngoài ạ
+(Quốc Huy Nguyễn​​Dạ làm ở nước ngoài luôn ấy ạ , không phải làm remote)
+đáp: 
+cần tiếng Anh hơn (giao tiếp)
+ít nhất là giao tiếp cơ bản được bằng tiếng Anh: singapore, malay, indo, philipin, india
+
+hướng thạc sĩ???
+làm giảng viên ở Việt Nam
+(giảng viên đại học hoặc trợ giảng)
+
+
+Nguyễn Thanh Nhứt​​lúc anh tìm việc intern thế nào vậy ạ
+đáp:
+hồi xưa
+đi theo tua ở trường
+(thầy dẫn đi)
+được gặp sinh viên các trường khác:
+quy nhơn, huế, đà nẵng, quảng nam, quảng ngãi
+
+intern => fresher => chính thức
+
+
+https://www.foundit.in/job/software-programming-web-axis-software-services-remote-35899394
+https://www.foundit.in/job/java-fullstack-developer-mc-soft-remote-36356271
+
+bigtech
+luyện phỏng vấn bigtech: microsoft, google, amazon, ...
+=> luyện leetcode
+
+ở Việt Nam: luyện làm project product
+việc remote
+
+
+capybara review phim​​chú ơi bây giờ ngành nào ít cạnh tranh nhất trong lập trình ạ
+đáp: 
+
+nhiều việc:
+lập trình web: c#, java, html css, js, nodejs
+lập trình app điện thoại
+
+cạnh tranh ít:
+game unity c#
+c/c++: lập trình nhúng (singapore), lập trình cho ô tô (thị trường Hàn Quốc ở Việt Nam)
+python: việc liên quan AI còn ít
+
+
+----------------------
+Cute Animals​​java web có còn ngon ko a 
+đáp: ngon
+---------------------
+Cute Animals: ​​unity c# vất vả lắm a ơi 
+đáp: ít cạnh tranh hơn
+không làm dev thì ta làm test
+test game = chơi game :)))
+
+capybara review phim​​tại trg cháu lớp 10 cs hc python mà cháu muốn đổi ngôn ngữ mới để rèn tư duy lập trình
+đáp: python thì cứ học thôi, học thêm c++ c# java nè
+
+---------------------------
+Cute Animals​​game nó chạy ads mà k ra tiền cũng ốm a ơi 
+đáp: thị trường game ở VN chưa nổi như web với app điện thoại
+------------------------
+capybara review phim​​mà cháu cx chx hình dung tư duy lập trình như nào
+đáp: tư duy lập trình là tư duy giải quyết một vấn đề được đưa ra
+ở mức low level: đưa bài tập nào thì giải cái một
+ở múc hight level: khách hàng đưa ra yêu cầu chúng ta cần giải quyết được
+
+cách tư duy logic và hệ thống để giải quyết vấn đề bằng phương pháp lập trình
