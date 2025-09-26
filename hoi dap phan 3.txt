@@ -1,0 +1,166 @@
+cuong khuong​
+​muốn vô icpc world final cần học những thuật toán nào vậy a
+đáp: Nếu mục tiêu của bạn là ICPC World Final, thì bạn phải chuẩn bị kiến thức thuật toán ở mức rất rộng và sâu. Không chỉ nắm lý thuyết mà còn phải luyện cài đặt nhanh, tối ưu và nhận ra được dạng bài. Dưới đây là roadmap những nhóm thuật toán – cấu trúc dữ liệu thường xuyên xuất hiện:
+
+🔹 1. Cấu trúc dữ liệu nền tảng
+
+DS cơ bản: Stack, Queue, Deque, Linked List.
+
+Set/Map nâng cao: Balanced BST (Treap, Splay, AVL, Red-Black Tree).
+
+Union-Find (DSU): Path compression, union by rank, DSU rollback, DSU on tree.
+
+Heap/Priority Queue: Dùng cho Dijkstra, greedy.
+
+Fenwick Tree (BIT), Segment Tree:
+
+Lazy propagation.
+
+Segment tree beats.
+
+Persistent segment tree.
+
+Mergeable segment tree.
+
+Sparse Table: RMQ, GCD queries.
+
+Mo’s algorithm: Offline query trên mảng / cây.
+
+🔹 2. Thuật toán đồ thị
+
+Shortest path:
+
+Dijkstra, Bellman-Ford, SPFA.
+
+Floyd-Warshall.
+
+Johnson’s algorithm.
+
+Minimum spanning tree (MST): Kruskal, Prim, Borůvka.
+
+Max flow & min cut:
+
+Ford-Fulkerson, Edmonds-Karp.
+
+Dinic’s algorithm.
+
+Push-relabel.
+
+Matching & Covering:
+
+Bipartite matching (Hungarian / Kuhn).
+
+Hopcroft–Karp.
+
+Minimum vertex cover, maximum independent set (trên đồ thị hai phía).
+
+Eulerian Path / Hamiltonian Path: Fleury, Hierholzer, Held-Karp (DP for TSP).
+
+Topological Sort, SCC, 2-SAT.
+
+Tree algorithms:
+
+LCA (Binary lifting, Euler Tour + RMQ).
+
+Centroid decomposition.
+
+Heavy-Light Decomposition (HLD).
+
+Rerooting DP trên cây.
+
+🔹 3. Thuật toán chuỗi
+
+KMP, Z-function, Prefix Function.
+
+Suffix Array, LCP, Suffix Automaton.
+
+Aho-Corasick Automaton (multi-pattern matching).
+
+Rabin-Karp, String Hashing (Polynomial Hash, Double Hash).
+
+Manacher’s algorithm (palindrome).
+
+Trie nâng cao (persistent, binary trie cho XOR).
+
+🔹 4. Lý thuyết số & toán rời rạc
+
+Số học:
+
+Sàng Eratosthenes, phân tích thừa số.
+
+Ước chung lớn nhất (GCD), Euclid mở rộng.
+
+Modular inverse, Modular exponentiation.
+
+Chinese Remainder Theorem (CRT).
+
+Euler’s Totient Function, Carmichael function.
+
+Miller-Rabin (kiểm tra nguyên tố), Pollard’s Rho (phân tích số lớn).
+
+Combinatorics:
+
+Tổ hợp, hoán vị, phân hoạch.
+
+Precompute factorial & inverse factorial modulo.
+
+Lucas theorem.
+
+Inclusion-Exclusion Principle.
+
+Burnside’s Lemma, Polya’s theorem.
+
+Linear Algebra: Gaussian elimination, Matrix exponentiation, Determinant, Rank.
+
+FFT / NTT: Nhân đa thức nhanh, Convolution.
+
+Discrete Logarithm: Baby-step Giant-step.
+
+🔹 5. Thuật toán nâng cao
+
+Dynamic Programming:
+
+Knuth optimization, Divide and Conquer optimization.
+
+DP on bitmask.
+
+SOS DP (Sum Over Subset).
+
+DP on DAG, DP on trees.
+
+Game theory:
+
+Grundy number, Sprague-Grundy theorem, Nim game.
+
+Geometry:
+
+Convex hull (Graham scan, Andrew monotone chain).
+
+Rotating calipers.
+
+Line sweep (Bentley–Ottmann).
+
+Voronoi diagram, Delaunay triangulation.
+
+Half-plane intersection.
+
+Randomized algorithms: Hashing, Randomized QuickSelect.
+
+🔹 6. Kỹ năng giải World Final
+
+Phân loại bài nhanh (biết ngay đây là bài gì).
+
+Code ngắn gọn, clean, tránh bug.
+
+Kỹ năng team: phân công, review code.
+
+Tốc độ: phải quen viết những thuật toán lớn như suffix automaton, dinic trong 5–10 phút.
+
+Rèn luyện qua contest: Codeforces Div.1, AtCoder Grand Contest, ICPC archive.
+
+👉 Tóm lại: bạn cần master cả nền tảng lẫn thuật toán nâng cao. Đặc biệt, ở World Final hay ra các bài kết hợp nhiều mảng (VD: DP + Geometry, Flow + Matching, String + Automaton).
+
+Bạn có muốn mình lập cho bạn một lộ trình học chi tiết theo giai đoạn (từ cơ bản → nâng cao → chuyên sâu ICPC WF) không?
+
+-----------------------
+
