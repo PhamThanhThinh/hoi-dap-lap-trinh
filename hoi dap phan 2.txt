@@ -104,3 +104,5 @@ hải ​​msy
 chạy c++ online
 https://www.onlinegdb.com/online_c++_compiler
 
+ví dụ về pandas (lập trình python)
+https://colab.research.google.com/drive/1xxMrvmJmaqg7Es8Nv7Q0l7hfx4A4GFZw?usp=sharing#scrollTo=HJnwBmzokWgp
