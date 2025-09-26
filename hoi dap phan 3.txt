@@ -164,3 +164,111 @@ Bạn có muốn mình lập cho bạn một lộ trình học chi tiết theo g
 
 -----------------------
 
+Huy Hoàng​
+​em xin github của anh với ạ
+đáp: https://github.com/PhamThanhThinh
+
+----------
+
+Hana Yuuki​​em nên làm bao nhiều phần on-premise bao nhiêu phần đám mây ạ
+Hana Yuuki​
+​em làm cơ sở dữ liệu thì nên dùng on-premise hay đám mây nhiều hơn ạ
+
+đáp: cloud database (chi phí rẻ hơn)
+
+
+-------------------
+
+Coding​​để thi hsgqg cần học gì vậy ạ
+đáp: cần một thầy thiệt giỏi để hướng dẫn (kèm 1 - 1)
+thầy chuyên về đào tạo để thi học sinh giỏi quốc gia (lập trình)
+
+--------------
+duy pham nhat​​anh ơi vecto có khó ko anh
+đáp: khó, vì mỗi bạn hiểu 1 kiểu
+quan trọng là dùng được thì ok
+
+----------------
+Coding​
+​cây nhị phân là segment tree hả anh
+đáp: segment tree là một phần trong kiến thức về cây nhị phân
+nói đến cây nhị phân người ta thường học binary tree
+
+
+----------------
+Phúc Sanh Nguyen​​Anh ơi công nghệ frontend của .net nên học cái nào anh nhỉ
+đáp: 
+Blazor: web dùng html css js c#
+Blazor Hybrid: app điện thoại và máy tính: html css hoặc xaml code giao diện, c# backend
+
+React + c#
+Vue + c#
+
+web: Blazor, React, Vue + c#
+
+Phúc Sanh Nguyen​​Anh ơi công nghệ frontend của .net nên học cái nào anh nhỉ
+đáp: tóm gọn lại: Blazor, React, Vue
+
+----------------------------------
+tin​​anh ơi giờ ngta build web dùng html css hay cái gì vạy ạ
+đáp: web tĩnh: html css xml js
+web động: backend (c#, java, nodejs) + html css js + bootstrap
+
+
+ogh​​a ơi muốn tự làm máy tính nhúng thì nên học ngôn ngữ lập trình nào đầu tiên ạ
+đáp: học C/C++
+
+
+Nguyễn Anh Tài​​bình thường mình code 1 chức năng xong mình test nó như thế nào thì đúng hả anh
+đáp: manual test (tester)
+dev => tester => test chính cái task đã làm
+
+task => code => tester => ok => done
+		       => not ok => trả ngược cho dev fix
+QA (bộ phận đảm bảo chất lượng sản phẩm) <=> khách hàng
+
+
+công ty outsource
+manual test (chụp màn hình, quay video màn hình để lưu bằng chứng rằng chức năng đó đã được test rồi)
+viết test case (file word) => cho manual test
+=> task (file excel)
+
+auto test: đang ở mức thử nghiệm thôi (techlead)
+
+PM giao task
+dev xử lý task
+tester
+dev xử lý bug
+QA
+khách hàng
+task của khách hàng
+dev xử lý task đó (dev đã làm task đó trước đó)
+
+
+thời kỳ lập trình thủ tục hàm (thời kỳ lập trình tuyến tính)
+thời kỳ lập trình hướng đối tượng
+thời kỳ lập trình với trí tuệ nhân tạo
+
+vibe coding: coding dựa hoàn toàn vào AI (trí tuệ nhân tạo)
+
+ogh​​cho em hỏi vscode với visual studio khác nhau ra sao ạ
+đáp:
+visual studio 2022: là IDE: đầy đủ hầu hết các công cụ: compile, debug, editor, ... (nặng) (chỉ cần cài vô là ok)
+
+vscode nó chỉ là trình editor code thôi (trình viết code)
+compile đều do hệ hành xử lý (thông qua terminal, cmd) (nhẹ)
+(cực ở bước cấu hình)
+
+Quick sort
+https://www.youtube.com/watch?v=3San3uKKHgg
+
+--------------------
+
+kom07​​moi hoc lap trinh game nen dung gi vay anh
+
+đáp: Unity C# (2D/3D) 
+hiện nay Unity đã đa nền tảng chạy được trên Windows, Mac, Linux
+
+
+về tấn công mạng giả lập thì chưa
+(đội thi về tấn công mạng thì mới học ^^, trên đại học tổ chức cuộc thi)
