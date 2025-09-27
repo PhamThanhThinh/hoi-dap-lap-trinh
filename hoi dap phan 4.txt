@@ -102,3 +102,14 @@ nên mang đồ ăn, cơm: free, ké cơm căn tin
 đồ uống: cafe + trà + sữa bò + sữa chua + đá lạnh = combo
 (sở thích)
 ***
+Khang Ngô​​anh đang soạn giáo án ạ?
+đáp: giáo án lập trình python cơ bản
+
+
+***
+Cường Nguyễn Đức​​anh ơi em học xong arduino trong vòng 2 tuần như vậy có chậm quá ko anh 
+Arduino là một nền tảng phần cứng và phần mềm mã nguồn mở cho phép người dùng thiết kế và xây dựng các dự án điện tử tương tác. Nó bao gồm một bo mạch vi điều khiển (phần cứng) và môi trường lập trình tích hợp (Arduino IDE) sử dụng ngôn ngữ lập trình C/C++. Arduino được phát triển để giúp người mới bắt đầu, sinh viên và những người đam mê công nghệ tiếp cận với điện tử và lập trình một cách dễ dàng và chi phí thấp.
+
+***
+Discord | Nhóm Học Lập Trình
+discord.gg/fVJTh2Gju4
