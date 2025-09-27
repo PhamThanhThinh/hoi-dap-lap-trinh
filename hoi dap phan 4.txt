@@ -1,0 +1,12 @@
+KOnjs​
+​sếp ơi , em làm quản lý nhân sự ( đã làm - thêm , sửa , xóa , tìm kiếm ) thì có cần làm gì them hay không ạ 
+đáp: import, export (file excel)
+
+***
+
+Hana Yuuki​
+​tại sao anh không dùng office 365 và microsoft 365 ạ
+đáp: windows chỉ cho dùng 1 version, không thích gỡ ra rồi cài lại
+
+***
+
