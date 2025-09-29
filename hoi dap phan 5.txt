@@ -33,7 +33,7 @@ angular
 ***
 
 Nguyễn Văn Thắng​​em tiếp cận với .net core trước thì bh cần học lại cái .net thường ko a
-đáp: nếu chưa đi làm thì cứ học
+đáp: xem sơ qua để biết sự khác nhau
 
 
 ***
@@ -42,3 +42,30 @@ https://www.foundit.my/job/frontend-developer-angular-javascript-html-css-unison
 ***
 typescript + angular
 
+***
+Hatosutira Gaming​​ad chủ yếu code ngôn ngữ nào thế 
+đáp: c#
+game: unity c#
+web: asp.net, asp.net core mvc, asp.net core
+app: asp.net core: Blazor Hybrid MAUI (desktop/mobile)
+
+***
+
+https://www.ankhang.vn/laptop-lenovo-loq-15arp9-83jc00lvvn.html
+
+***
+Nhật Hoàng​
+​anh dạy về devc++ dii ạ
+đáp: các công cụ gần giống nhau
+
+codeblock
+devc++
+
+visual studio 2022 ()
+vscode (cài compiler)
+
+ #include<bits/stdc++.h>
+
+ #include <iostream>
+
+ https://codepen.io/ngtantai1001/pen/GgoZXOb?editors=1010
