@@ -1,0 +1,44 @@
+Nguyễn Văn Thắng​ ​a ét pê net với core khác nhau nhiều ko a, nên dùng cái nào ạ
+đáp: 
+asp.net mvc (.net framework)
+asp.net core mvc (.net core)
+
+asp.net webform (.net framework)
+asp.net mvc (.net framework)
+asp.net core mvc (.net core)
+blazor (dùng component, .net core)
+
+***
+
+Ham Ăn Công Tử​​anh dạy bypass anticheat bằng c++ di anh
+đáp: anh đâu có biết đâu
+
+***
+
+Dân Nguyễn Thế​​ javascript với c++ cái nào ngon hơn anh
+javascript: làm web
+c++: nhúng, game: sdl, opencv, cocos2dx
+
+***
+
+Kien Trung​​cho em hỏi người mới học lập trình nên bắt đầu như thế nào ạ
+đáp: c/c++ c#/java app web
+web: 
+html css javascript (nền tảng)
+bootstrap
+nodejs: backend
+react: frontend
+angular
+
+***
+
+Nguyễn Văn Thắng​​em tiếp cận với .net core trước thì bh cần học lại cái .net thường ko a
+đáp: nếu chưa đi làm thì cứ học
+
+
+***
+https://www.foundit.my/job/frontend-developer-angular-javascript-html-css-unison-group-malaysia-36252957
+
+***
+typescript + angular
+
