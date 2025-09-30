@@ -1,0 +1,34 @@
+***
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/
+
+***
+source code
+mobile
+
+***
+vmware linux:
+https://www.osboxes.org/vmware-images/
+
+***
+VMware ESX là gì
+VMware **ESX** (viết tắt của *Elastic Sky X*) là một loại **hypervisor** do VMware phát triển, dùng để tạo và quản lý **máy ảo (virtual machines)**.
+
+Cụ thể:
+
+* **Hypervisor**: là phần mềm hoặc hệ thống cho phép nhiều hệ điều hành chạy đồng thời trên cùng một phần cứng vật lý.
+* **VMware ESX/ESXi** thuộc loại **bare-metal hypervisor** (chạy trực tiếp trên phần cứng máy chủ, không cần cài đặt thêm hệ điều hành trung gian).
+* Khi cài ESX lên một server vật lý, bạn có thể chia tài nguyên (CPU, RAM, ổ cứng, card mạng) thành nhiều phần để cấp cho các máy ảo khác nhau. Mỗi máy ảo có thể chạy hệ điều hành riêng (Windows, Linux, v.v.).
+
+### Một số điểm nổi bật:
+
+* **Quản lý tập trung**: thường kết hợp với VMware vCenter để quản lý nhiều server ESX.
+* **Hiệu suất cao**: do chạy trực tiếp trên phần cứng.
+* **Ứng dụng trong doanh nghiệp**: xây dựng hạ tầng ảo hóa, cloud private, test lab, hoặc data center.
+* **ESX vs ESXi**:
+
+  * ESX là phiên bản cũ, có thêm *Service Console* (một dạng Linux shell).
+  * ESXi là phiên bản thay thế, nhẹ hơn, bảo mật hơn, và hiện nay VMware chỉ duy trì **ESXi**.
+
+👉 Nói đơn giản: **VMware ESX là nền tảng ảo hóa giúp bạn chạy nhiều hệ điều hành/máy ảo trên cùng một máy chủ vật lý.**
+
+Bạn có muốn mình vẽ cho bạn sơ đồ minh họa ESX hoạt động như thế nào (máy chủ vật lý → ESX hypervisor → máy ảo) không?

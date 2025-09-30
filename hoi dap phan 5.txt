@@ -1,7 +1,7 @@
 Nguyễn Văn Thắng​ ​a ét pê net với core khác nhau nhiều ko a, nên dùng cái nào ạ
 đáp: 
-asp.net mvc (.net framework)
-asp.net core mvc (.net core)
+asp.net mvc (.net framework 4.8.1) cũ
+asp.net core mvc (.net core 3 5 6789) mới
 
 asp.net webform (.net framework)
 asp.net mvc (.net framework)
@@ -61,6 +61,9 @@ Nhật Hoàng​
 codeblock
 devc++
 
+
+
+
 visual studio 2022 ()
 vscode (cài compiler)
 
@@ -69,3 +72,196 @@ vscode (cài compiler)
  #include <iostream>
 
  https://codepen.io/ngtantai1001/pen/GgoZXOb?editors=1010
+
+
+***
+ Nhân Dusky​​vl h mà ông vẫn còn dùng office 2010 à
+ office 2007
+
+ ***
+ Minh Ròm​​a cho e hỏi dot net voi asp dot net core co giong nhau ko ạ
+ asp.net .net framework cũ
+ asp.net core .net core mới: đa nền tảng (web: deploy đa nền tảng, app: chạy đa nền tảng được)
+
+***
+capybara review phim
+anh ơi bth anh học thuật toán ở đâu á
+đáp: leetcode
+
+
+Minh Ròm​​ko, môn đó e học web windows sơ sơ về linQ rồi kỹ thuât ajax đồ
+asp.net webform (.net framework)
+asp.net mvc
+asp.net core mvc
+asp.net core blazor
+
+Minh Ròm​​ko, môn đó e học web windows sơ sơ về linQ rồi kỹ thuât ajax đồ
+Minh Ròm​​đúng r a, vậy mấy cty lớn nó tuyển thì sẽ hỏi về gì v a ... mà e thấy để là training sợ cạnh tranh ko nổi kkk
+
+app quản lý:
+em làm chức năng gọi món
+em làm chức năng chuyển bàn em làm như nào
+
+
+***
+
+ nashtech tuyển rookie to program về dot net va asp dot net core mà ngta kiu là training route
+
+
+***
+ Minh Ròm​​ủa mà a ơi, nếu là a pvan thì a hỏi gì trong program này =))) 
+
+ TechLead
+ Em thích dùng công nghệ gì để lập trình?
+  - dotnet
+ Phiên bản mới nhất của .net và .net core?
+ Em phân biệt .net và .net core mvc?
+
+TechLead nhìn vào CV thấy đồ án tốt nghiệp:
+web bán hàng:
+Em làm chức năng giỏ hàng này như nào?
+Em làm chức năng thanh toán này như nào?
+nối chuỗi làm việc với csdl
+linq thì em sẽ làm như nào?
+
+bigtech:
+Câu hỏi trong phỏng vấn Technical:
+- Quy hoạch động (Dynamic Programing hay DP)
+- BFS & DFS - Tree (cây nood)
+- Binary Search (thuật toán)
+- Two Pointers (con trỏ)
+- Hashing (mã hóa)
+LeetCode
+
+
+PM/CTO:
+Em có người yêu chưa (CTO sếp hơi vui tính) (có vợ chưa)
+ - có
+ - không
+ có gánh nặng (+ 1 miệng cơ)
+ ở công ty lâu dài hơn
+
+Tại sao em lại chọn phỏng vấn ở công ty anh?
+- em cần tiền, vào đây kiếm dc nhiều tiền
+(thực tế)
+CTO:
+Anh giao cho em một task, mà em không làm được thì em sẽ nói với anh như thế nào?
+  - 
+Em hơn bạn khác ở điểm nào?
+ - khiêm tốn
+ - không khiêm tốn
+
+Nhậu bao nhiêu lon?
+rủ đi nhậu khi công ty ngày đầu (buổi trưa, lúc nghỉ ngơi -> TechLead chở về công ty, xỉn say quắc cần câu)
+(bộ phận làm việc có văn hóa nhậu)
+sau 17h00
+thường xuyên tổ chức nhậu nguyên 1 bộ phận
+
+
+
+
+ngày 1 làm 8 tiếng, lương 1 tiếng 37500 đồng (mức lương intern)
+37 500 * 8 = 300 000
+1 tháng làm bao nhiêu ngày
+22
+
+300 000 * 22 =  6.600.000
+
+thử việc đ lương:
+9 triệu
+10 triệu
+11 triệu
+
+25 triệu lương ngàn đô
+
+***
+Độ Bùi Đình​
+​Lấy đồng nghiệp nữ công ty đi bác
+đáp: không bạn ơi
+tại sao???
+
+
+
+***
+Minh Ròm​​mà ai là ng quyết định rớt hay đậu a, e mới pvan hôm bữa 1 anh Lead, 1 anh senior 
+CTO quyết định nhân sự thông qua nhận xét của Lead và Senior (thường sếp nghe lời của TechLead, Senior)
+
+***
+Minh Ròm​​có nên chọn start up ko a ...
+???
+start up giàu => lương cao (một câu chuyện ở nước ngoài)
+OT thường xuyên vì là startup mà
+
+trong nước???
+​startup làm gì có tiền =)). được tiền cơ bản là ngon rồi. quan trọng startup là về cổ phần đó b
+nghe bảo có lương mà OT ko lương
+​tinh thần học hỏi , thích giao tiếp, thì vô startup
+
+start up nghèo vì tiền đổ vào dự án hết rồi???
+thiết bị, mặt bằng, ...thuê techlead, leader, PM, thuê CEO
+(CTO cầm sổ đỏ vào ngân hàng rồi, dồn hết tiền vào ngân hàng)
+lỡ dự án phá sản thì CTO/CEO phải đi làm thuê cho người ta
+
+***
+Minh Ròm​​ủa nếu vậy em fresher thì ngta tuyển vô phỏng vấn có khác gì mấy cty khác ko nhỉ 
+teach lead, pm, senior, leader hỏi để biết bạn có làm được việc không
+CTO: hỏi em tích cách em có phù hợp với văn hóa công ty không
+
+làm nhiều công việc
+
+làm nhiều công nghệ:
+dự án có công nghệ mới thì em có sẵn sàng học công nghệ mới không?
+học bao lâu?
+cách học của em như nào?
+khách hàng và techlead => công nghệ cho dự án
+
+
+***
+Minh Ròm​​a nghĩ có nên đi mấy cái trung tâm học việc IT nhật xong qua nhật làm ko
+nhà chu cấp đủ thì nên
+
+Minh Ròm​​dr a cty esuhai gì đó 100 củ mà sợ qua bị bịp ...
+100 củ
+lái thuyền -> ngắt ngó cây sen (cũng là lái thuyền -> thuyền độc mộc)
+
+Anh Nguyen Duc​​anh ơi anh cho em hỏi là nếu vậy thì em có nên đi học thạc sĩ xong mới đi làm không anh
+Anh Nguyen Duc​​hay em nên đi làm trước rồi mới đi học ạ
+đáp:
+thạc sĩ: làm giảng viên đại học (nhà có mối quan hệ, giàu) (đam mê dạy học, trồng người)
+ra trường thì cứ đi xin việc thôi
+
+Hung Phan​​học it thì có những chứng chỉ nào được coi trọng v anh 
+đáp:
+bằng đại học, bằng cử nhân, bằng trung cấp nghề, cao đẳng
+chứng chỉ coi trọng là : gg aws azure
+
+
+***
+Minh Ròm​
+​ủa học thạc sĩ xong xin việc lương có cao hơn kh vậy a 
+đáp: thạc sĩ có chi phí quá cao để thuê (công ty làm product)
+
+***
+Hung Phan​​trường em chỉ nhận trình độ tiến sĩ anh ạ muốn đi dạy tại trường cũng có
+trung cấp nghề, cao đẳng, đại học tỉnh
+
+***
+Hung Phan​​muốn dạy chỗ đó cần học sư phạm ra không a hay có bằng thạc sĩ là được
+quá khó để trả lời
+
+***
+dạy ở mấy trường top lương cao nha mấy bác, cao nhất tầm 600k/h
+
+***
+
+Tan Tai Nguyen
+​
+​bản chất cái cert của bọn big tech là cái chứng nhận có trình độ cao rồi. tiếng anh , học thuật có đủ rồi
+
+Tan Tai Nguyen
+​
+​anh em đam mê. chưa có việc. hay đh cđ mới ra trường. ko biết làm gì. thì cứ lập hội học 1 để lấy cái cert nào đó của big tech. trong 1 năm try hard. việc chắc chắn có
+
+Tan Tai Nguyen
+​
+​quan trọng là quyết tâm học. và có ng học chung mới đi nổi
