@@ -281,3 +281,15 @@ https://www.topcv.vn/viec-lam/fresher-embedded-auto-sar/1803817.html?ta_source=J
 https://www.topcv.vn/viec-lam/thuc-tap-sinh-embedded/1895619.html?ta_source=JobSearchList_LinkDetail&u_sr_id=kGMXoIb8W7l5YjEYsNrfqhCQGY6QYi4TUsfA45MX_1759248259
 
 https://www.topcv.vn/viec-lam/thuc-tap-ky-su-lap-trinh-embedded-iot/1586469.html?ta_source=JobSearchList_LinkDetail&u_sr_id=kGMXoIb8W7l5YjEYsNrfqhCQGY6QYi4TUsfA45MX_1759248259
+
+***
+Anh Hoang Mai​​Cho e hỏi về mobile dev với ạ, em muốn thực tập sớm thì học thêm về những gì nữa ạ
+đáp: android studio + java
+
+
+***
+Học web api (bổ trợ):
+Fiddler
+https://www.youtube.com/watch?v=6RTF0O-h8Fk
+Giống Postman
+
