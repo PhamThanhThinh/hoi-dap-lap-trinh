@@ -29,6 +29,255 @@ Cụ thể:
   * ESX là phiên bản cũ, có thêm *Service Console* (một dạng Linux shell).
   * ESXi là phiên bản thay thế, nhẹ hơn, bảo mật hơn, và hiện nay VMware chỉ duy trì **ESXi**.
 
+
+
+
 👉 Nói đơn giản: **VMware ESX là nền tảng ảo hóa giúp bạn chạy nhiều hệ điều hành/máy ảo trên cùng một máy chủ vật lý.**
 
 Bạn có muốn mình vẽ cho bạn sơ đồ minh họa ESX hoạt động như thế nào (máy chủ vật lý → ESX hypervisor → máy ảo) không?
+
+
+***
+phnkhans​​Em đang năm 1 ATTT, có nền tảng Python, C++, SQL, đang học PHP, JS, DSA cũng đang vọc vạch linux . Em cảm thấy thích xây dựng hệ thống, giải thuật, code hơn là đào sâu network/protocol. 
+phnkhans​​Anh nghĩ em nên thi lại CS để theo đúng hướng mình thích, hay nên ở lại ATTT nhưng tự học CS, build project để định hướng nghề nghiệp ạ?
+đáp:
+Tan Tai Nguyen
+​​gửi thêm vào mấy nhóm ATTT ở VN luôn nhé
+Tan Tai Nguyen
+​​bạn ơi. ATTT năm nhất học mấy cái nền tảng network nó khó vô nên bạn nản đó. cố gắng vượt qua. học ATTT vui hơn làm software. 
+Tan Tai Nguyen
+​​cái chuyện xây dựng hệk thống code giải thuật này nọ. bạn học ATTT có điều kiện chạm vào các thiết bị server. vọc vạch hay hơn. đến khi bạn nhàn rỗi. bạn có thể làm ssofftware thoải mái.
+
+***
+Nguyễn Đức Huy​​a ơi về phần backend website thì nên sử dụng ngôn ngữ nào ạ
+đáp:
+backend
+C#: .net framework, .net core
+Java: spring, akka (nhật)
+Javascript: Nodejs
+frontend
+blazor
+react
+vue
+angular (typescript)
+
+***
+Cường Nguyễn Đức​​anh ơi giờ em mới năm 2 có kiến thức c,c++,app designer ,matlab, arduino ko bt em thuộc loại sinh viên nào nhỉ anh 
+đáp: nhúng
+
+***
+pham dong​​con mới học lap trinh web, con đang học html css , chú có lời khuyên gì cho con k chú
+đáp: học thêm javascript (cơ bản)
+Nodejs
+React
+Tan Tai Nguyen
+
+học javascript
+​@pham dong https://developer.mozilla.org/en-US/ https://www.w3schools.com/js/default.asp là bạn 
+
+***
+pham dong​​con muốn theo hướng vue với php được k chú
+đáp: vue được
+php thì hơi ít job việc làm một chút
+
+
+***
+Hoang 6494​​em mới ra trường, nhưng em code bằng ai nhiều quá nên ngu rồi anh
+đáp: không đưa cho nó code luôn 100% thì chưa làm sao
+
+
+***
+pham dong​​chú làm ở đâu vậy chú
+đáp: bí mật
+
+
+***
+Bui Tung ​​Em đang là middle và đang tính nhảy việc thì nên deal bn a. Em đang làm java
+đáp: 
+
+***
+Hoang 6494​
+​nếu anh được cho học duy nhất 1 lib để bắt đầu, anh chọn gì anh nhỉ. Spring, Dotnet hay gì anh. Em đang bị lạc lối
+đáp: c#
+
+***
+Tan Tai Nguyen
+​
+​https://learn.microsoft.com/en-us/tra... @Hoang 6494 tập trung vào đây , học hết , học qua cho biết, có chứng chỉ miễn phí. đi xin việc người ta ưu tiên lắm. chả phải cần bằng ĐH luôn
+
+
+***
+Hoang 6494​
+​mình rớt ở interview bigtech 2-3 lần. Đang rất nản
+đáp: luyện leetcode top server
+
+***
+Hoang 6494​
+​em solve đc leetcode nhưng rớt ở cái khác
+đáp: Bui Tung​​@Hoang 6494 mình từng pv tạch ở grab và NAB. May sao đậu axon khuyên bạn nên ôn kĩ system design 
+Tan Tai Nguyen
+​@Hoang 6494 rớt ở kỹ năng mềm, thực tiễn cách làm dự án chứ gì nữa p koi
+
+
+***
+Hoang 6494​
+​nếu anh chọn C# dotnet để học thì anh dự định sẽ làm dự án đầu tay là gì ạ.
+đáp: quản lý quán cafe, karaoke
+
+***
+Maji Review​​em đang học năm 1 và đang tính theo app dev nhưng không biết nên chọn ngôn ngữ nào và có nên ôm hết cả ios và android không ạ ?
+đáp: C#
+- app desktop/mobile: blazor hyrid maui (mobile bao gồm ios, android)
+- web: asp.net webform, asp.net mvc .net framework, asp.net core mvc, asp.net core blazor
+- game: engine unity c#
+
+java: app, web
+
+nodejs: web, app
+
+các ngôn ngữ backend
+
+
+***
+Hoang 6494​
+​em có làm qua các dự án từ react-native đến dotnet, django nhưng em để tùm lum trong cv quá thì em thấy không ổn. Em chỉ đi chép lại code của ng ta và hỏi gpt, có cách cứu ko anh.
+đáp: làm cv áp sát tin tin tuyển dụng
+
+***
+Maji Review​​nên chọn ios hay andr ạ, 2 cái này có khác nhau gì không anh 
+
+***
+Dương Phong​​em muốn theo sorfware thì nên học nn j ạ 
+đáp: 
+html css javascript
+java c#
+nodejs
+
+***
+Hoang 6494​
+​em chỉ biết code nó nằm ở đâu thôi anh, kêu e giải thích nó là gì e bóa tay
+đáp:
+coder bốc gạch
+không cần giải thích hết
+biết nó dùng để làm gì là được
+
+Hoang 6494​
+​react native cho phép code cả android và ios. maybe bạn có thể thử
+
+c# blazor
+
+
+***
+Hoang 6494​
+​em mới ra trường, em có một ít python, một ít ai, một it data science, một ít java, c#, C++, android và ios, html/css, javascript
+đáp: sát với tin tuyển dụng
+Tan Tai Nguyen​
+​@Hoang 6494 đừng đừng đừng và đừng thể hiện vào CV
+
+
+Nguyễn Văn Thắng​​làm với web thì chọn blazor server hả a
+blazor
+react
+nodejs
+
+***
+Maji Review​​mọi người cho em hỏi là theo app thì nên học đi kèm combo nào ạ, vd như học thêm cyperscurity hay gì ạ 
+
+html css js
+java spring
+c#
+
+Maji Review ​​ứng dụng dt á ạnh 
+android: java
+ios: swift
+
+***
+Tấn Đại​​.net h có thể xin được việc làm không anh, em sinh viên năm cuối sắp ra trường ạ 
+vb.net
+Windows form
+wpf
+winui
+asp.net
+unity c#
+
+
+***
+Hoang 6494​
+​project của e toàn hàng đi clone ạ.
+Hoang 6494​
+​ko thì cũng gọi api
+đáp: hầu hết bán hàng + api + microservice
+
+***
+Hoang 6494​​anh đang ở leader hay cto vậy anh
+đáp: member bình thường
+
+***
+Quyet Nguyen Van​​e Đang học năm 1 nghành hệ thống thông tin quản lý a có thể tư vấn tham khảo cho em xu hướng việc làm của nghành hiện tại k a
+đáp: Võ Hồng Phúc ​​httql làm BA, làm QA, tester
+Quality Assurance
+
+
+***
+39_Nguyễn Hoàng Quý​​anh chia sẻ về kinh nghiệm nộp cv với đi phỏng vấn của anh đi ạ
+đáp: 
+
+***
+NHQ Khải
+​​a đoán a thịnh đc trường cho đi thực tập xong làm đến h=)
+đáp: chính xác
+intern
+
+***
+Satoshi Nakamoto​
+​chắc a làm ở FPT phải ko
+đáp: bí mật
+
+Quân Lê​​cách facebook quản lí dữ liệu như nào anh
+Hoang 6494​​chắc nó dùng nosql
+
+BA
+QA
+
+
+***
+Hoang 6494​​fpt nghe nói bóc lột pko anh. Toàn thực tập không lương
+
+đáp:
+có nhiều chi nhánh
+mình không có nghe thông tin này
+
+***
+Nhân Dusky​​e đg lm về mảng marketing mà sợ trong tương lai nó ko còn chỗ đứng nên học sang dev a nghĩ mảng nào dễ kiếm việc ạ:))
+đáp: kinh tế đang đi xuống, kiếm việc khó
+
+Đặng Công Duy​​a ơi em cần làm 1 cái program c++ j đí anh cho em ý tưởng đc k ạ
+game flappy bird
+
+***
+Tan Tai Nguyen
+​
+​còn thời nay thì fpt thực tập ko lương đó. (hỗ trợ gì thì ko biết) . ko tin lên cái kênh laptrinhvacotsong có bà chị HR nói cho mà nghe =-))
+
+***
+WARP coding
+https://docs.warp.dev/
+
+
+https://learn.microsoft.com/en-us/training/dotnet/
+
+Nhân Dusky​​Cấp 2 học pascal vs c++, cấp 3 học python vs html rùi mà:D
+
+Cường Nguyễn Đức​​ngô hải đăng cuối năm 2 cu giờ mới đầu à nhưng anh đi đc khoảng 50% rồi
+
+***
+Nguyen Minh: ​​Ủa v là bác dạy ở ĐH Duy Tân hả 
+đâu có ^^
+
+
+***
+https://www.topcv.vn/viec-lam/fresher-embedded-auto-sar/1803817.html?ta_source=JobSearchList_LinkDetail&u_sr_id=kGMXoIb8W7l5YjEYsNrfqhCQGY6QYi4TUsfA45MX_1759248259
+
+https://www.topcv.vn/viec-lam/thuc-tap-sinh-embedded/1895619.html?ta_source=JobSearchList_LinkDetail&u_sr_id=kGMXoIb8W7l5YjEYsNrfqhCQGY6QYi4TUsfA45MX_1759248259
+
+https://www.topcv.vn/viec-lam/thuc-tap-ky-su-lap-trinh-embedded-iot/1586469.html?ta_source=JobSearchList_LinkDetail&u_sr_id=kGMXoIb8W7l5YjEYsNrfqhCQGY6QYi4TUsfA45MX_1759248259
