@@ -1,0 +1,262 @@
+Fuzzy​
+​cài lsp trên neovim kiểu gì a
+Fuzzy​
+​sublime nữa
+đáp: search youtube (tiếng anh/tiếng việt)
+
+***
+
+Hana Yuuki​
+​bây giờ nhiều thư viện đồ họa quá như winui của microsoft và skia của google
+
+đáp: mới biết tới winui của microsoft thui
+
+***
+Hatosutira Gaming​
+​anh ơi Flutter được xây dựng từ ngôn ngữ nào hay nhà phát triển tự viết trình biên dịch thế anh . Với cả nó là ngôn ngữ bậc gì thế ạ 
+
+đáp:
+Flutter không phải là một ngôn ngữ lập trình, mà là **một framework** để xây dựng ứng dụng đa nền tảng (Android, iOS, Web, Desktop).
+
+Cụ thể:
+
+* **Ngôn ngữ dùng trong Flutter**:
+  Flutter được xây dựng chủ yếu bằng **Dart** (một ngôn ngữ do Google phát triển). Khi bạn lập trình Flutter, bạn sẽ viết code bằng Dart.
+
+* **Trình biên dịch**:
+  Google không dùng compiler có sẵn mà **tự phát triển trình biên dịch Dart**:
+
+  * Trên **mobile**: Dart được biên dịch xuống **native ARM code** (tức là thành mã máy chạy trực tiếp, tương tự C/C++).
+  * Trên **web**: Dart được biên dịch sang **JavaScript** để chạy trong trình duyệt.
+  * Trên **desktop**: Dart cũng được biên dịch thành mã máy native.
+
+* **Ngôn ngữ bậc gì**:
+  Dart (dùng trong Flutter) là một **ngôn ngữ lập trình bậc cao** (high-level language), hướng đối tượng, có cú pháp khá giống C/Java. Nó không phải low-level như Assembly, cũng không thuần managed như Java/C#, mà được thiết kế để dễ viết nhưng vẫn có hiệu năng tốt khi compile thành native.
+
+👉 Tóm lại:
+
+* Flutter được viết bằng **Dart**.
+* Google **tự viết compiler Dart** để biên dịch sang native code hoặc JavaScript.
+* Dart là **ngôn ngữ bậc cao**, hướng đối tượng.
+
+Bạn có muốn mình so sánh Dart với Java và C# để thấy rõ Flutter chọn Dart vì lý do gì không?
+
+
+***
+preview
+xem trước
+
+***
+Lê Hùng Vương​ ​postman chỉ kiếm tra được api nodejs thôi hả anh
+đáp: ​postman dùng được với asp.net core api luôn mà
+
+***
+Hung Manh​​anh có biết pentest k ạ
+
+***
+Satoshi Nakamoto​
+​anh biết Runway ko, AI tạo video đó anh
+
+***
+Hatosutira Gaming​
+​anh dạy Unity thì có dạy code shader hoặc VFX không anh ? Em học Unity 3 năm vẫn chưa làm được tốt anh ak
+đáp: nếu có hướng dẫn thì anh hướng dẫn về VFX còn thì code shader quá sâu
+
+***
+kh Nhật đưa cho chúng ta json được generate từ database của họ
+
+***
+Satoshi Nakamoto​
+​anh là fan chatGPT à, sao ko dùng Claude thử, mới ra bản 4.5 đó anh
+
+đáp: lần tiếp xúc với con AI về hỏi là dùng chatgpt
+
+***
+Hoang 6494​​anh đang học python à
+đáp: làm slide python
+
+***
+Hatosutira Gaming​
+​anh ơi làm sao mà mấy lập trình viên python biết phiên bản thư viện thế anh . Em dùng cuda 12.8 nhiều khi bị lỗi các loại thư viện nhất là Pytorch 
+đáp
+
+Hoang 6494​
+​cài pythom manage server để chọn ver python, và python package management để quản lí lib
+
+***
+
+Nguyễn Đức Long​ ​Anh hồi đi xin việc thì cái bằng đại học thật sự cần thiết không ạ? kiểu danh tiếng của trường có cần không ạ
+đáp: nhờ mối quan hệ của trường và của thầy
+bằng cũng quan trọng
+CTO, PM, Leader, TechLead (80, 89, 90)
+khoảng cách thể hệ có thể người ta sẽ xem trọng bằng đại học hơn, loại giỏi xuất sắc -> ấn tượng, ngạc nhiên, kinh ngạc
+
+
+***
+Nguyễn Đức Long​​:))) Em có kĩ năng tốt nhưng mà đang định học luôn 1 trường ở gần nhà để tiết kiệm chi phí, bù lại thì bằng không quá chất lượng
+
+***
+Tỷ Nguyễn Thành​​có nên du học thạc sĩ CNTT Hàn ko a
+đáp: có điều kiện thì du học thôi
+
+***
+Coding​
+​Khi ép kiểu về bool, giá trị nào cho False, giá trị nào cho True ạ
+đáp: 0 là false, 1 là true
+
+***
+Nguyễn Đức Long​​DLU - Đại học Đà Lạt
+học thôi
+học tiếng anh có cơ hội công việc remote
+
+***
+Hoang 6494​
+​có nên rải cv ko anh nhỉ?
+đáp: nên
+
+***
+Lê Hùng Vương ​​câu hỏi hay gặp nhất về lập trình web . hay Android là gì vậy anh
+phỏng vấn???
+
+***
+Tỷ Nguyễn Thành​​có điều kiện nhưng e sợ học xong vẫn thất nghiệp thì quê lắm a ạ, mang tiếng thạc sĩ mà k có việc
+
+***
+Tan Tai Nguyen
+​​ad chia sẻ trải nghiệm về câu “Nếu cho tôi sáu giờ để chặt một cái cây, tôi sẽ dành bốn giờ đầu tiên để mài rìu.”
+
+***
+Hoang 6494​
+​anh đi làm code bao lâu nhớ được syntax anh nhỉ
+
+đáp: thường 3 năm người ta sẽ được gọi là làm được việc
+
+***
+​​waydroid
+
+***
+Huy Đan​​anh ơi em chuẩn bị làm đồ án rồi anh gợi ý cho em 1 số project được không anh=))
+đáp:
+web app booking: vé, khách sạn
+web bán hàng (phổ biến) có thể tích hợp thêm AI để tăng điểm
+web quản lý công văn
+web quản lý nhân viên (phổ biến)
+web bán đồng hồ
+
+app winform quản lý quán cafe (kteam) long kteam hướng dẫn
+
+webform: 
+
+asp.net mvc
+asp.net core mvc
+
+------------------
+Hoang 6494​
+​lên giithub gõ cái muốn làm, nhìn ng ta code có dài ko, có làm đc ko. Sau đó bí quá clone về xoá license đổi hàm
+
+vb.net
+c/c++/
+
+
+c#/java
+
+Phạm Công Toàn​​anh làm series aspnet core web api đi a, không cắt từ live
+sau khi xong unity game 2d, aspnet core web api, c, python
+
+
+Phạm Công Toàn​​nhắc tới C ,thấy ông youtuber kia code mọi thứ bằng C ,nhìn mà phát sợ:))
+
+holy C
+temple OS
+theo lời gọi của chúa (ông ta mắc chứng hoang tưởng)
+tạo ra hệ điều hành temple OS (temple ngôi đền)
+
+
+
+Nguyễn Văn Thắng​​làm sao khi làm project mình biết mình làm ở giai đoạn nào và nên làm cái gì tiếp theo a
+
+khách hàng sẽ cung cấp guildline
+
+Phạm Công Toàn​​PM sẽ lo việc đó:)))
+
+PM sẽ chia task cho chúng ta
+leader phân phối task
+hoặc là task được đăng công khai trên group, mọi người cạnh tranh nhau để làm task (manual test)
+
+
+Phạm Công Toàn​​có cái meme là con vẹt vừa biết nói "dự án tới đâu rồi" và nó trở thành PM:)))
+PM tìm dự án, sếp giao tìm anh job chạy 1 năm với khách hàng nhật, khách hàng cũ bị phá sản rồi, dự án không còn
+
+Phạm Công Toàn​​kiểu hỏi nhiều quá nên ngta joke ấy mà:))
+cto siết nợ trên ngân
+Pm bị cto thúc quá
+
+
+cuối ngày gửi mail tiến độ
+sáng ngày bàn về khó khăn cần giải quyết
+
+
+Phạm Công Toàn​​cty a làm theo mô hình z a, waterfall à
+
+Nguyễn Văn Thắng​​làm việc nhóm thì mấy câu git nào quan trọng a
+git add.
+git commit
+git push nhánh của riêng của mình không phải nhánh master
+vì phải xem code trước khi đưa lên master rồi đánh task là ok -> tester, đưa qua khách hàng => ok
+git pull (đồng bộ code để không bị lỗi ở máy mình)
+git branch (tự mình tạo ra nhánh với git convention được quy định trước)
+git merge (teamlead/lead/techlead)
+
+Tan Tai Nguyen​ ​làm việc nhóm git branch git merge quan trọng nhất nhé
+
+Lê Đê Thị​​bro ở qn hay đn vậy ạ =))
+quê ở quảng nam
+
+Lê Đê Thị​​em cũng qn 2k1, a sinh năm mấy :v
+đáp: 97
+
+Phạm Công Toàn​​e giờ chỉ dùng lazygit thôi
+
+Phạm Công Toàn​​T97:))
+không phải
+J97
+
+
+Lê Đê Thị​​anh đang làm công ty nào ấy 
+không tiết lộ được
+sợ gặp người quen
+
+
+Hoang 6494​
+​anh ơi, mình có được lên ý tưởng code ko anh hay là task chia xuống rồi mình code thôi anh
+
+chia task xuống rồi mình code thôi
+code như nào thì một do mình
+người ta có ưng output mình làm không
+leader/teamlead/techlead xem lại
+tester test
+kh ok hay không
+
+lên ý tưởng
+công ty product
+công ty startup
+
+lên ý tưởng và code tool phục vụ dự án
+mình code
+techlead xem lại
+đồng ý hay không
+dùng công nghệ winform
+techlead yêu cầu wdf mặc dù cto thấy ok
+
+nhập nhiều file để render 1 lúc luôn
+nối chuỗi
+em dùng linq đi dùng biểu thức lambda đi
+
+kh: lệch 1 pixel rồi (nhật) -> làm lại task này giúp tôi -> dev làm lại
+
+
+Nguyễn Văn Thắng​​những kiến thức nào liên quan đến API hả a
+http
+https
+get post delete...
+rest api
