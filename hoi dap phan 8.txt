@@ -1,0 +1,129 @@
+software engineer
+
+
+***
+
+Độ Bùi Đình​​Ở đây tui ko test java vs python mà test 1 cái website á
+đáp: manual test, unit test (học unit test)
+***
+html css javascript
+C# Java
+c/c++
+python
+
+***
+thuy​​nên hc gtest framework k 
+đáp: nếu bạn học test thì học gtest thôi 
+
+Coder ASMR​​làm tutorial SFML C++ đi ạ
+đáp: học C# Unity đi
+
+C++ sdl opengl cocos2dx
+GLFW
+vulkan
+directx
+skia
+
+
+c# unity engine
+
+2d/3d
+
+
+
+anh vũ
+​​e đang học ngành hệ thống thông tin thì định hướng DA ổn ko a
+học thêm: 
+excel
+python
+sql
+power tool BI (power platform)
+tham gia một khóa học DA trên coursera
+500k / tháng
+1.7 -> 2 / năm trên coursera
+
+Le van Tuan​​anh oi cho em hoi thuong anh se to chuc code theo mo hinh MVC hay khac hon anh
+mvc cũng có (c#)
+component cũng có (nhiều)
+
+nếu lấy c/c++ làm nền tảng để học web và nhiều kiến thức khác
+c java -> html css js 
+c++ c# -> html css js
+
+Tan Tai Nguyen
+​freecodecamp có khoá học chứng chỉ xịn xò của c# microsoft . theo bên này vừa có cert của freecodecamp và microsoft luôn. xịn xò
+
+Độ Bùi Đình​​Mô hình mvc hiện tại thấy các trường dh vẫn dạy còn đi làm cty thì áp dụng mô hình mới
+
+asp.net webforms (mvc)
+asp.net mvc .net framework
+asp.net core mvc
+
+mvc vẫn dùng nhiều mà
+mvvm
+
+phỏng vấn: tại sao người ta dùng mvc
+
+
+
+Hieu Tran
+​​thầy ơi em muốn học theo điện oto thì có cần học lập trình ko ạ
+lập trình với c/c++
+auto car
+lập trình nhúng cho xe ô tô
+
+
+Satoshi Nakamoto​
+​nghiện cà phê quá thì làm sao anh, uống vào thì bị mất ngủ
+thay bằng trà hoa cúc cho dễ ngủ
+
+
+Hieu Tran
+​​cho em hỏi em chưa có 1 kiến thức nào 100% mới, thì có trụ đc ko ạ
+trụ được bình thường
+
+Hieu Tran​​điểm ngành đấy có cao ko ạ
+cntt chỗ nào chả cao???
+
+trà hoa cúc + sữa bò + sữa chua
+
+Hieu Tran​​thầy chia sẻ cho em cách học đc ko ạ, hiện tại, em học nhiều quá khiến chán học và học ko vào ạ
+hỏi chatgpt hỏi bạn hỏi thầy
+
+Lê Thành Nam​​A hướng dẫn cách viết clean recurrence trong dynamic programming đi a
+lên youtube search hướng dẫn
+
+cafe đen + sữa đặc + trà chè đậm đặc
+
+
+Dũng Anh​ ​oop có được ứng dụng nhiều trong công việc ko a
+đáp: 100% trong công việc
+kế thừa
+class
+private public
+
+temple os
+holyc
+
+***
+Nguyễn Văn Thắng​​razor page, mvc, blazor nó khác như nào a
+
+razor page dùng trong asp.net core mvc
+
+blazor dùng trong blazor server/assembly
+
+mvc tổ chức thư mục cho project asp.net core mvc
+
+***
+
+search lập trình nhúng trên topcv
+https://www.topcv.vn/tim-viec-lam-embedded?position=50&type_keyword=1&sba=1
+
+đà nẵng
+https://www.topcv.vn/viec-lam/fresher-embedded-auto-sar/1803817.html?ta_source=JobSearchList_LinkDetail&u_sr_id=c8A8k2rP0GpclI6uh9EhM360CHGliz313MOj88me_1759421460
+
+hồ chí minh
+https://www.topcv.vn/viec-lam/thuc-tap-sinh-embedded/1895619.html?ta_source=JobSearchList_LinkDetail&u_sr_id=c8A8k2rP0GpclI6uh9EhM360CHGliz313MOj88me_1759421460
+
+hà nội:
+https://www.topcv.vn/viec-lam/thuc-tap-ky-su-lap-trinh-embedded-iot/1586469.html?ta_source=JobSearchList_LinkDetail&u_sr_id=c8A8k2rP0GpclI6uh9EhM360CHGliz313MOj88me_1759421460
