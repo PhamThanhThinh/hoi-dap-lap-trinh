@@ -258,5 +258,20 @@ kh: lệch 1 pixel rồi (nhật) -> làm lại task này giúp tôi -> dev làm
 Nguyễn Văn Thắng​​những kiến thức nào liên quan đến API hả a
 http
 https
-get post delete...
+get put post delete...
 rest api
+
+định nghĩa về api thông qua các bài viết
+https://stackoverflow.com/questions/41189842/what-is-difference-between-rest-and-api
+https://learn.microsoft.com/en-us/dotnet/api/?view=net-9.0
+https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html
+
+Ant Bee​​làm có 1 chỗ từ lúc sv tới giờ ko có kinh nghiệm đi pv kkk
+
+gọi là nói chuyện chứ không interview
+interview: kiếm việc remote làm partime
+
+
+Ant Bee​
+​đợt mình mới vào cty mấy a mentor cũng hỏi mấy kiến thức xong cho mình present. sau mấy ổng mới nói là mấy ổng cũng ko biết chỉ hỏi để mình tự tìm hiểu sharing lại thôi 🤡
+
