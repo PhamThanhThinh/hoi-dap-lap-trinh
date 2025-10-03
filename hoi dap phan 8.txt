@@ -127,3 +127,43 @@ https://www.topcv.vn/viec-lam/thuc-tap-sinh-embedded/1895619.html?ta_source=JobS
 
 hà nội:
 https://www.topcv.vn/viec-lam/thuc-tap-ky-su-lap-trinh-embedded-iot/1586469.html?ta_source=JobSearchList_LinkDetail&u_sr_id=c8A8k2rP0GpclI6uh9EhM360CHGliz313MOj88me_1759421460
+
+
+Phú Nghiêm
+​​em học xong lập trình cơ bản trên ytb thì nên học ngôn ngữ khác hay học lên tầm cao hơn anh nhỉ
+đáp: học làm web, làm app, làm game
+c -> java
+c++ -> c#
+html css -> thêm javascript -> nodejs
+
+python -> dùng pandas (xử lý thông tin dữ liệu)
+
+pythono + sql + excel + power tool BI = data (làm DA, data engineer)
+
+c/c++ -> học nhúng với Arduino, STM32, viết firmware
+
+
+
+Lê Hùng Vương​​if if liên lục khác gì với if else if anh .
+
+đáp:
+
+phải xét hết điều kiện
+if ()
+if ()
+...
+
+
+không cần xét hết điều kiện
+if (){
+
+}
+else if () {
+
+}
+else {
+
+}
+
+không để bị thiếu điều kiện
+tránh bị lọt điều kiện

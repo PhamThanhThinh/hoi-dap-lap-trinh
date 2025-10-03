@@ -1,0 +1,53 @@
+Độ Bùi Đình​
+​Java spring boot hibernate thường được code trên phần mềm code nào nhỉ
+đáp:
+eclipse
+https://www.youtube.com/watch?v=S0Olv_m65ow&list=PLyxSzL3F7484gAqOtnw7v1lU7fpDDfyt_
+
+***
+Độ Bùi Đình​
+​Tôi thấy dạo này cái spring boot dc code trên vscodr hoặc intelljiIDEA
+
+dùng thêm
+intelljiIDEA
+
+***
+eclipse -> java
+mod lại code c++
+
+***
+An Phạm​​học python cho người mới kiểu gì v anh
+
+variable biến
+data type kiểu dữ liệu
+toán tử operator
+câu lệnh điều kiện if else
+vòng lặp for...
+...
+
+***
+WHITE44​​a lam nghe gi, luong ok ko a
+đáp: bí mật
+
+Tam Thanh​​a đang hc hay đi làm r
+đi làm
+Thịnh 97
+
+***
+
+Tam Thanh​
+​a code trên vs code à
+đáp: visual studio 2022
+vscode ít dùng hơn
+
+
+https://codepen.io/ngtantai1001/pen/GgoZXOb?layout=left
+
+giới thiệu 3 trang luyện code:
+https://leetcode.com/
+https://www.codingame.com/multiplayer/clashofcode
+https://codeforces.com/
+
+Lăng Bùi​​
+bn ở đâu quê mình đó?
+thăng bình quảng nam
