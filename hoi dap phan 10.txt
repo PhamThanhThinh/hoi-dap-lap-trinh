@@ -1,0 +1,97 @@
+đầu tiên cài msys2 vào hđh
+https://www.msys2.org/
+
+trong vscode cài
+code runner
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+trình gợi ý code c++
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+
+video hướng dẫn:
+https://www.youtube.com/watch?v=o-AwgI92kbc
+
+cài msys2
+cài gcc
+cài gnu
+cài extension trong vscode: coderunner, c++ microsoft gợi ý code
+
+***
+
+Tỷ Nguyễn Thành
+​​web blazor server
+
+làm app quản lý (quản lý bệnh viện)
+tìm tin tuyển dụng trên fb về mấy công ty chuyên về app quản lý
+
+
+***
+Coder ASMR​
+​dạy Socket đi anh, WinSock2 C++ á
+
+lập trình mạng (network programming) (lập trình c++ nâng cao)
+
+Ví dụ đơn giản
+
+Server (WinSock2):
+
+#include <winsock2.h>
+#include <iostream>
+#pragma comment(lib, "ws2_32.lib")
+
+int main() {
+    WSADATA wsa;
+    WSAStartup(MAKEWORD(2, 2), &wsa);
+
+    SOCKET s = socket(AF_INET, SOCK_STREAM, 0);
+    sockaddr_in server;
+    server.sin_family = AF_INET;
+    server.sin_addr.s_addr = INADDR_ANY;
+    server.sin_port = htons(8888);
+    bind(s, (sockaddr*)&server, sizeof(server));
+    listen(s, 3);
+
+    SOCKET new_socket = accept(s, NULL, NULL);
+    const char* msg = "Hello from server";
+    send(new_socket, msg, strlen(msg), 0);
+
+    closesocket(new_socket);
+    closesocket(s);
+    WSACleanup();
+}
+
+
+Client (WinSock2):
+
+#include <winsock2.h>
+#include <iostream>
+#pragma comment(lib, "ws2_32.lib")
+
+int main() {
+    WSADATA wsa;
+    WSAStartup(MAKEWORD(2, 2), &wsa);
+
+    SOCKET s = socket(AF_INET, SOCK_STREAM, 0);
+    sockaddr_in server;
+    server.sin_family = AF_INET;
+    server.sin_port = htons(8888);
+    server.sin_addr.s_addr = inet_addr("127.0.0.1");
+
+    connect(s, (sockaddr*)&server, sizeof(server));
+
+    char buffer[1024];
+    int recv_size = recv(s, buffer, sizeof(buffer), 0);
+    buffer[recv_size] = '\0';
+    std::cout << buffer << std::endl;
+
+    closesocket(s);
+    WSACleanup();
+}
+
+
+tự động khởi tạo chương trình python khởi động cùng hệ điều hành:
+add to path
+và dùng task scheduler của windows
+
+video hướng dẫn:
+https://www.youtube.com/watch?v=ic4lUiDTbVI
+

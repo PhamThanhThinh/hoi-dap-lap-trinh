@@ -1,0 +1,105 @@
+python: variable, data type, loop, ifelse, function, arry...
+javascript: variable, data type, loop, ifelse, function, arry ...
+unity game 2d
+asp.net core api
+java
+
+
+pham tuanhau​​học node js thì làm cái gì
+đáp: làm web/app
+
+
+Hoang 6494​
+​Nếu anh làm aimbot trong tựa game bắn súng thì có người coi á anh. :)
+unity game 2d bắn súng
+
+
+Satoshi Nakamoto​ ​anh tự nấu ăn hay ăn cơm tiệm v anh
+ăn quán
+
+Satoshi Nakamoto​​tưởng ở trọ thì tự nấu ăn chứ nhỉ : ))
+vẫn ăn quán
+
+
+이지은​​mỗi app thì cần phải học lập trình riêng hả a. kiểu như mình muốn tự động gửi tin nhắn lên message thì cần phải học thêm kiến thức
+
+html css js
+nodejs
+react
+làm web app
+
+c#
+app desktop/mobile
+web app
+game unity
+
+Hoang 6494​
+​à, anh giao tiếp nước ngoài ạ
+đáp: nói chuyện với mấy bạn làm ở nước ngoài nhưng là người Việt Nam
+
+
+***
+pham tuanhau​
+​bây giờ ôngy giải đc câu này thì tôi donate 10k viết chương trình đa luồng khiến 3 thread cùng truy cập 3 tài nguyên khác nhau mà không bao giờ deadlock, dù thứ tự lock là ngẫu nhiên tự giải nhé
+đáp: Satoshi Nakamoto​
+​10k đô thì làm
+
+***
+pham tuanhau​
+​Tự viết event loop kiểu Node.js, xử lý bất đồng bộ bằng hàng đợi và callback mà không dùng async/await, thread hay thư viện hỗ trợ
+đáp:
+Thịnh chỉ biết dùng nó thôi
+còn cơ chế async/await nó tự động, nên không đi sâu vào á
+
+***
+Hoang 6494​
+​bắt luồn streaming về, lấy chat rồi encode nó cho ai đọc
+Hoang 6494​
+​cái key anh để anh connect với youtube để stream thông qua phần mềm á anh (dùng stream key)
+Hoang 6494​
+​mang cái đó về rồi lấy message ra, from open_ai import chatgpt về
+
+***
+pham tuanhau​
+​Tạo chương trình cho AI tự học cách tối ưu hóa chính code của nó qua tiến hóa (mutation, crossover, fitness function)
+(ý tưởng đồ án tốt nghiệp)
+
+Hoang 6494​
+​cái đó chịu, NLP kết hợp reinforment learning mà ko có máy boá tay
+Hoang 6494​
+​lấy dữ liệu xây dataset, lấy model slm về, fine-tune , rồii viết policy để train lại small language model
+pham tuanhau​
+​import ast,astor,random,math,multiprocessing,timefrom copy import deepcopyPOP=100GEN=60TOURNAMENT=5MUT_RATE=0.35CROSS_RATE=0.7MAX_DEPTH=5TIMEOUT=0.1def target(x):return
+Hoang 6494​
+​kaggle cũng chạy đc, ko biết đủ gpu ko thôi
+***
+
+
+pham tuanhau​
+​đố ông giải đc p vs np tôi donate 500k cho dùng chatgpt
+
+
+***
+
+linux: ubuntu, fedora, mochios, cachyos...
+windows: 
+macos
+
+***
+
+BERNICE MUSIC​​cháu đang học lập trình web, nhưng cháu cũng phân vân giữa xu hướng tương lai , cháu rất khó chọn giữa lập trình app , và lập trình web chú cho cháu vài lời khuyên được không
+
+đáp: lập trình web sẽ nhiều việc hơn
+web/app đều nhiều việc, nhưng web nhiều việc hơn
+
+c# và java đều làm được web + app
+nodejs
+
+Vu Le​​Anh thấy thị trường c# .net hiện tại nhu nào ạ
+wpf, asp.net core mvc
+us-uk, nhật
+
+32gb ram
+ssd 500gb
+card rời: rtx nvidia
+
