@@ -103,3 +103,5 @@ us-uk, nhật
 ssd 500gb
 card rời: rtx nvidia
 
+Tan Tai Nguyen
+​​ai có key openai grok gì cho xin làm demo giọng nói nhé =))
