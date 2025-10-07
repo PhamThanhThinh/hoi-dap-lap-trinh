@@ -1,0 +1,385 @@
+Lê Hùng Vương​
+​em chưa hiểu cái bất đồng bộ lắm anh
+
+đáp: trong c# bất đồng bộ là tự động, chúng ta chỉ cần hiểu cách dùng (biết cách dùng) (async/await trong c#)
+
+CRUD (create read update delete)
+1 triệu dòng: có nhiều dòng dữ liệu khi truy vấn cần dùng bất đồng bộ
+
+***
+Hoang 6494​
+​tại sao máy tính lại phải dùng 1 byte để lưu 1 bit ?
+đáp: để máy tính hoạt động nhanh hơn
+
+***
+Hoang 6494​
+​tại sao phải dùng bitmap mà không dùng mảng bit
+đáp: mảng bit chỉ để lưu trữ
+nếu muốn sử dụng thì phải lưu trong bitmap
+
+00001111...
+
+***
+Hoang Phan​
+​c++ thực tế người ta xài nhiều ko anh
+đáp: nhiều, nhưng ít hơn c#, java, ...
+
+c++
+làm game: dùng engine sdl, opengl, cocos2dx
+làm nhúng
+làm ô tô: tính năng dùng c++
+thị trường việc làm: hàn quốc, singapore
+
+***
+Satoshi Nakamoto
+​
+​hồi sinh viên anh nấu ăn hay ăn ngoài
+
+đáp: ăn ngoài + tự nấu
+
+***
+Dau Vuong​​ngành game hay software engineer thì cái nào khó hơn anh
+
+làm app mobile làm web việc nhiều hơn
+làm ở vn ít việc hơn
+
+đam mê làm game thì học thêm tiếng anh
+
+***
+Hoang Phan​​em tính học C++ để lâp trình nhúng ổn ko ạ, hay học C anh
+c c++ đều nên học
+
+auto car
+
+***
+Dau Vuong​
+​cho em hỏi là nếu học về software engineer học lập trình cơ bản, cơ sở dữ liệu và cấu trúc dữ liệu và giải thuật rồi học j tiếp ạ
+
+lập trình cơ bản với c/c++/python
+cơ sở dữ liệu: sql
+
+- học c# để làm app máy tính
+- làm game với c# (unity)
+- làm web với c# (asp.net .net framework)
+
+
+- tiến vào làm web luôn:
+html css javascript
+nodejs reactjs
+
+java spring web
+web aspdotnet
+reactjs
+
+c => java
+c++ => c#
+
+***
+Trần Hữu Phước​​dạ em chào thầy, thầy nghĩ sao về thị trường PHP bây giờ ạ
+2 năm 3 năm
+thực tập khá ít
+(PHP)
+
+wordpress
+
+***
+Dau Vuong
+​​muốn xin intern thì cần nắm chắc những gì ạ em học c++
+
+bigtech:
+luyện tư duy thêm hoặc chuẩn bị cho buổi phỏng vấn ở bigtech
+Câu hỏi trong phỏng vấn Technical:
+- Quy hoạch động (Dynamic Programing hay DP)
+- BFS & DFS - Tree (cây nood)
+- Binary Search (thuật toán)
+- Two Pointers (con trỏ)
+- Hashing (mã hóa)
+
+có mối quan hệ
+nhà trường
+thầy cô giới thiệu công việc
+
+rải thật nhiều cv
+phỏng vấn -> kinh nghiệm -> bù
+
+công ty thường: hỏi bạn có biết làm được sản phẩm không?
+chức năng đó làm như nào?
+(cv có add project tốt nghiệp)
+
+***
+
+Hoàng Huy​​anh họ của em nói học nodejs làm back end đi kiểu gì cũng có việc thầy nghĩ sao ạ 
+
+đáp: đồng ý với quan điểm
+
+html css bootstrap javascript
+nodejs reactjs
+
+***
+Tỷ Nguyễn Thành
+​​nodejs làm dashboard ổn k a
+
+c#
+
+Trinh Nam​​thầy cho em hỏi, nếu giờ quay trở lại vạch xuất phát, thầy sẽ tập trung học những môn gì ạ
+
+
+Hoang 6494​
+​tại sao AI lại được viết bằng python trong khi python chạy chậm hơn so với C++
+
+nhiều hàm dựng sẵn
+cấu trúc code đơn giản
+chuyên xử lý dữ liệu
+
+***
+
+Hoang 6494​
+​tại sao java lại không để lập trình viên quản lí bộ nhớ như c++
+java ngôn ngữ cấp cao (làm sản phẩm là app và ứng dụng)
+
+***
+Hoàng Huy​​trường em giờ đang còn học mvc thầy có nghĩ nó lỗi thời không ạ 
+không lỗi thời
+
+***
+Khen Nguyễn​
+​java spring con thấy nó hong bằng các ngôn ngữ khác nhưng tại sao nó ưa dùng vậy chú, giao diện nó con thấy không bằng khác
+
+doanh nghiệp lớn dùng oracle, java hoạt động tốt với oracle
+mã nguồn mở
+
+spring
+akka
+
+***
+Tuấn Kiệt​​muốn học lập trình bài bản từ đầu để hiểu sâu cho công việc sau này thì nên học C++ hoặc C đúng không anh
+
+C/C++ chương trình đại học
+c# java
+
+***
+Vu Le​​Anh đang làm remote hay làm việt nam
+việt nam
+
+
+***
+Hoang 6494​
+​Tại sao trong java spring boot, đối tượng không được khởi tạo bằng new mà bằng cách tiêm annotation @bean vài 
+hỏi ông tạo ra java với c#
+
+c# thì new (do syntax, cú pháp)
+java thì không new
+
+***
+Khen Nguyễn​
+​Chú ơi con học hết c++ , c # , java ,java spring , python rồi nhưng con cảm thấy kiển thức nó chỉ bao quanh nhiêu đó lập đi lập lại , vậy con có cạnh tranh nổi không ạ
+đáp: mình còn trẻ thì mình cạnh tranh hơn rồi đấy
+luyện làm sản phẩm
+web
+app
+game
+
+***
+Vu Le
+​​Ở Việt Nam anh không sợ sau 35t khó kiếm việc nếu không có tiếng anh sao
+25 - 30 + ngoại hình (tệ nạn ở vn)
+đáp: đang chuẩn bị book một cô giáo dạy nói tiếng anh ở malay
+
+***
+tanphat Ho​​nếu không có bằng cấp 2 thì sao ? Không học hết lớp 8 thì có theo ngành it web hay game được không
+được nhưng hơi khó hơn
+(trường nghề chương trình 9+ của chính phủ)
+
+***
+OT được không
+
+***
+Khen Nguyễn​
+​Con thấy AI nó dần dần sẽ làm được gần như con người , như lúc cursor ra vậy á chú , chú nghĩ lập trình viên dần sẽ thất nghiệp nhieuef không ạ
+AI vẫn bị phát hiện là vibe coding (CTO)
+
+web
+code cứng
+clean code (code sạch)
+
+***
+Học Code Cùng Đạt​​apply job remote hàn quốc cũng ngon, ko yêu cầu ngoại hình, yêu cầu phải trâu với chịu bị chửi giỏi =)))
+hàn quốc
+
+***
+...
+
+Vu Le​​fpt cho xuống hàng dự bị rồi tự chán tự nghỉ á anh.
+đáp: ...
+
+
+***
+Khen Nguyễn​
+​sinh viên sau khi tốt nghiệp ngành này , các nhà tuyển dụng không tự tin đua cho thực tập sinh vậy liệu kinh nghiệm mình sẽ kiếm đâu chú]
+đáp: hù 1 2 năm kinh nghiệm đề loại bỏ bớt
+tự tin nộp cv
+
+***
+game tester = chơi game
+
+***
+Vu Le​​Sao không có game server + backend nhỉ. Game online cần á anh
+game web cần game nhẹ
+
+còn game đẹp thì phải nặng
+
+***
+Khen Nguyễn​
+​Chú ơi con có thắc mắc về ngành chạy quảng cáo á chú , chú giải thích giúp còn với lại nếu chạy quảng cáo bằng ứng dụng tại sao người ta lại thuê ạ
+
+tốn nhiều thời gian
+cần pro
+
+***
+Minh Đức​​anh ơi code embedded giờ còn cửa sáng không anh
+
+
+***
+sơn nguyễn công​​chú ơi chú thấy ngành nào hiện giờ còn khả năng apply nếu chưa giỏi ạ
+web (r)
+
+
+
+da
+ba (ngoại hình + tuổi)
+
+
+***
+Hoang 6494​
+​tại sao mỗi ứng dụng lại mở một cổng khác nhau?
+bảo mật
+
+***
+mảng web
+mảng dạy học
+cty: bí mật
+
+
+***
+Cái acc mới được lập để nghe rap​​em đi tài chính mà có ý định rẽ quantitative finance thì cần code nặng không anh. với tự học lập trình của nhóm này có khó, tốn nhiều thời gian không a
+học lập trình ít nhất 6 tháng tới 1 năm
+
+BA cũng có code
+DA cũng có code
+
+QA
+BA
+DA
+
+Hoang 6494​
+​bữa e có đi pvan quantitative finance, nó hỏi cái gì đâu ko. có bao nhiêu cách để ngựa nhảy hết bàn cờ 5x5???
+
+code nặng
+
+hỏi nhiều group khác nữa
+
+***
+Hoang 6494​
+​tại sao việc biên dịch của c++ lại chậm hơn đáng kể so vớ golang?
+c++ phức tạp hơn
+
+***
+Hoang 6494​
+​khi một biến a được gán rỗng, null, zero, undefined. Về mặt lý thuyết, nó khác gì
+
+(câu hỏi khó)
+
+null chưa có vùng nhớ (ví dụ: x = null)
+
+rỗng đã khởi tạo vùng nhớ (ví dụ: "" [])
+
+0 (có giá trị là 0)
+
+undefined (đã được nhưng chưa gán giá trị)
+
+Hoang 6494​
+​về lí thuyết, null khác gì với none
+đáp:
+Về kỹ thuật, null là một con trỏ rỗng, còn None là một đối tượng thực tồn tại trong Python.
+
+***
+Hoang 6494​
+​string là kiểu dữ liệu hay cấu trúc dữ liệu?
+kiểu dữ liệu
+
+***
+Hoang 6494​
+​chọn công ty = chọn chỗ học, nên ko đam rải tùm lum anh, ko là chuyển sinh luôn
+
+***
+giàu đời 2
+
+***
+Hoang 6494​
+​e đang theo học thạc sĩ rồi đi làm mở network, chứ start-up rủi ro quá
+làm giảng viên đại học nè (công việc thể diện)
+
+
+***
+Hoang 6494​
+​giảng viên trường e còn than đói anh, phải làm ngoài
+nhưng công việc nó thể diện em
+
+***
+bccdbbeafbfabbebeecacb​​ủa thầy học lập trình mấy năm rồi
+nhiều năm rồi ^^
+đi làm cũng phải học thôi nha ^^
+đặc điểm của ngành công nghệ thông tin
+
+màn hình 5:4 cũ
+thường chừ là 16:9 mới
+
+
+***
+bccdbbeafbfabbebeecacb​​thầy có bạn bè ko
+có nhưng rất lâu rồi liên lạc
+
+***
+Lask3002​​làm sao để có nguyên yêu anh
+tung lưới bắt cá
+
+***
+dev sử dụng AI mà
+phải có người vận hành/dùng nó chứ
+AI đâu có sử dụng dev đâu
+...
+
+thời đại mới -> nhiều việc mới -> đừng quá bị quan
+
+***
+interview của vng:
+​x=1, y= 6+ x++ + ++x. y bằng bao nhiêu
+
+***
+Hoang 6494​
+​dev python chủ yếu là cộng trừ x chia, if else, for, dict, [] và biết import heap và collections là mang đi giải thuật đc
+
+***
+m o t i v a t i o n​​em trước tính học cntt giờ lại học robot và ai mà nó rộng quá
+
+auto car
+
+***
+NHQ Khải
+​​a ưi đi intern thì có kinh nghiệm nên né những công ty như nào z a, cho e xin ít kinh nghiệm, sợ ra đời bị lừa á a=))
+zậy thì vô bigtech cho chắc ăn
+
+Tan Tai Nguyen
+​​đọc luật lao động ko bao giờ bị bắt nạt lừa đảo
++ công đoàn
+
+***
+Tan Tai Nguyen
+​​project lạ. là xin được việc. nói thiệt
+
+
+***
+NHQ Khải
+​​a check thử công ty này giúp e đi: https://www.linkedin.com/company/olym...
+
+đáp: hỏi anh Quân IT
