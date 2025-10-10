@@ -355,6 +355,23 @@ thời đại mới -> nhiều việc mới -> đừng quá bị quan
 interview của vng:
 ​x=1, y= 6+ x++ + ++x. y bằng bao nhiêu
 
+x=1
+y=2
+
+computer se
+
+devops
+
+trong trường hợp không interview về lĩnh vực sản xuất phầm mềm (web, app) thì hỏi câu trên là ok
+nhưng đúng là web app hỏi câu trên thừa
+
+
+instance
+object
+properti
+attribute
+...
+
 ***
 Hoang 6494​
 ​dev python chủ yếu là cộng trừ x chia, if else, for, dict, [] và biết import heap và collections là mang đi giải thuật đc

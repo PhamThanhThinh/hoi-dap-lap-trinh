@@ -1,0 +1,385 @@
+
+Tỷ Nguyễn Thành​
+​giờ 1 mét vuông 10 người dev web thì làm sao để cạnh tranh a
+fullstack (vừa backend vừa fontend)
+
+***
+bàn về khóa học trên coursera
+Google Data Analytics Professional Certificate => udemy
+(còn khóa advanced nữa nha)
+https://www.coursera.org/programs/health-and-wellness-qyij2/professional-certificates/google-data-analytics?authProvider=barbados-nti
+
+***
+
+Hoang 6494​
+​cá nhân cái course đó chuyên về clean- process và validate data.
+
+***
+
+Hoang 6494​
+​nó thiên về thực chiến nữa. nó dụ anh học hết 9 cái khoá đó có cái khoá advanced nữa
+
+***
+
+Hoang 6494​
+​trường liên kết coursera học free 100%
+
+***
+
+Hoang 6494​
+​học trên đó nghịch vui thôi a, đọc sách vẫn oke nhất
+
+
+***
+Satoshi Nakamoto
+​
+​gemini tặng sinh viên gói pro 1 năm đó anh
+
+***
+blazor
+.net core 10
+vs 2026
+vs 2022
+
+
+.net framework: webform, asp.net mvc
+.net core: asp.net core mvc, asp.net core blazor, blazor hybrid maui
+
+IIS
+hosting
+
+***
+Hoang 6494​
+​local sever thì dùng open vpn, bóc lột cái server
+
+open vpn có dùng được thiệt không
+
+Nguyễn Đức Long​
+​:))) local thì wireguard
+
+Nguyễn Đức Long​
+​thuê cái vps rẻ rẻ có ip tĩnh là được
+
+***
+Hoang 6494​
+​server trường e nó ban ip ngoài, phải dùng trick
+
+***
+Anh Tuấn Lê​​anh làm công việc gì ạ
+
+lập trình (làm thuê): lập trình web
+và dạy học online: lập trình cơ bản (hướng dẫn cơ bản)
+
+***
+
+25 000 000 đô (nhiều)
+
+tưởng 100 000 (dev bình thường ở usuk)
+(lương 1 năm 100 000)
+
+Hoang 6494​
+​25 triệu vnd/ 1 tháng ở vn
+1000 đô 1 tháng
+
+chuyển đổi
+10000 myr to vnd/1 tháng
+(15000)
+cỡ 60 triệu tiền việt
+
+kỹ sư devops
+- lương tham khảo ở VN là từ 40 tới 60 triệu
+- lương tham khảo ở Malay là từ 60 triệu tới 100 triệu
+
+web bảo trì:
+Hoang 6494​
+​nó gọi là downtime thì phải
+
+bài học rút ra: học tiếng anh
+
+
+***
+
+Hana Yuuki​​@Hoang 6494 MySQL và PostgreSQL nhỉ. Mã nguồn mở đó
+
+***
+Hana Yuuki​​@Coding With Thinh Bảo mật console không cao vì ở chế độ elevated access
+
+
+Hoang 6494​
+​mới có cái lỗ hổng docker để khai thác private_key csdl 
+
+***
+Công Ngô
+​​mới bắt đầu thì hc j đầu tiên hả chú
+
+làm web app game
+
+web: html css javascript
+app: java, c#
+game: c#, c++
+
+Hoang 6494​
+​học cấu trúc dữ liệu, giải, thuật, mạng, hệ điều hành, nhập môn thiết kế phần mềm. => chương trình học đại học
+
+Công Ngô​​lập trình wed và lập trình về máy cnc ấy ạ
+
+web: html css javascript
+cnc: học c/c++, học cách dùng Arduino
+(nhập môn/mới bắt đầu/cơ bản)
+
+nâng cao:
+Hoang 6494​
+​web thì học về design pattern, api pattern, oop. Thiết kế lớp, method, generic, handle hand point. Mô hình thiết kế phần mềm (mvc,mvvm). Ngôn ngữ đánh dấu (XML). Cách trình duyệt render. (java c# javascript)
+
+lập trình tuyến tính (1 trong các thời kỳ lập trình)
+lập trình hướng đối tượng oop
+lập trình sử dụng AI
+
+***
+SUN​​ngành frontend doanh nghiệp còn cần không ạ, hay họ có xu hướng tìm fullstack hết r ạ
+
+frontend + backend = fullstack
+
+
+***
+https://www.amazon.com/Spring-Boot-Running-Building-Applications/dp/1492076988/ref=sr_1_3?crid=ZSNHB0O21RAL&dib=eyJ2IjoiMSJ9.naJjN9OLDK_1b20TZJTbIxMRPVGAmbGF_kyb_t7ES3SzxtpCBGZnfihnLhqabLd1TWaRGexWubzBilwbfqMOFtGkTuUxcCx26J747Khy4_De_3YhIix3bUGjmRIbXfi50GVsDVhNtxP4aF1p_LYyCuVhdEwXTHUE_7MalUgJ-YZwpbwaZEazP01HKaHHKLM3CF89qYgza3FEyiMyCl6R8pGmiDFo-p4WBkqciRF0FLquriaQd1jTDaRlBs1D_iMR3uadrRhcyn3i1NGDakq_l6hO7vHCip2X1CXWTLRRjLw.D_WMVSL9yzq8GMWTtqhbLpeMWvl-oXfWDvEAmO0xeak&dib_tag=se&keywords=java+spring+boot&qid=1759938901&sprefix=java+spri%2Caps%2C347&sr=8-3
+
+
+***
+KOnjs​​chức năng quản lý ( phòng ban với nhân sự ) ấy ạ em không biết làm sao để nó đồng bộ với nhau . với lại em cũng không biết nên viết tiếp gì nữa :<
+
+nhận được job ở ngoài nếu biết làm và làm tốt
+quản lý phòng ban và nhân sự:
+chuyển công tác (quản lý khi nhân viên chuyển sang nơi làm việc khác)
+
+
+***
+LEARN AND GYM​​em sv điện tử a có cần học code k ạ
+có: 
+python (lướt, có trong chương trình học)
+c# (có thể có, học lướt qua)
+c/c++ (chủ yếu)
+
+***
+Nguyenzap2212​​làm một trang blog thì cần chú ý những gì ạ, em dùng nodejs + mongo + mysql + react ạ
+
+quản lý
+blog: show danh sách bài viết, tìm kiếm, menu (home, about, contact)
+
+event-driven architecture
+
+
+
+Đức Tuấn​​anh có hưỡng dẫn code miễn phí ko ạ
+
+tương lai có thể Thịnh tổ chức event học online (qua google meet)
+
+
+video
+
+
+
+***
+
+Minh Ròm​​a ơi, cho em hỏi có nên chọn no-code developer làm nghề chính ko
+
+nên học cách tự code cho chắc ăn (developer)
+
+vibe coding:
+từ level junior làm được việc của level senior
+
+***
+tagve​​có trang nào dạy js dễ hiểu không a
+https://www.w3schools.com/js/default.asp
+
+***
+Minh Ròm​​dạng như kéo thả để tạo thành 1 trang web anh ơi giống như bubble chấm io a có thể xem thử
+làm dịch vụ, kiếm khách hàng lẻ để làm thì ok
+
+Minh Ròm​​vậy có nên chọn cty sử dụng no-code để làm nghề chính ko a, ko biết là có bền ko
+có công ty thì apply thôi
+
+
+Quality Assurance
+BA
+DA
+đi học code (dev)
+
+mình cứ học thôi
+
+
+
+Sơn Phan​​Bình 
+thường anh luyện thuật toán ở đâu ạ
+leetcode
+hackerank
+
+
+***
+Hoàng Tùng​
+​Em cảm giác theo IT phải nghiện code, nghiện học mới theo nghề được phải k anh? E thấy phải đánh đổi quá
+
+học - học nữa - học mãi
+
+***
+TFT _ MB​​học IT có cần giỏi tiếng anh ko ạ
+đọc tài liệu tiếng anh
+
+giao tiếp tiếng anh để mở rộng cơ hội việc làm
+
+
+***
+Tan Tai Nguyen
+​​microsoft mới ra cái thư viện Chat AI
+
+***
+Minh Ròm​​trang đó là dạng no code mà e bảo đó a
+ bubble io
+
+
+ Nguyễn Văn Thắng​
+​làm sao để giữ cảm hứng liên tục anh nhỉ, em tập trung căng lắm 2-3h
+
+25
+35
+
+
+***
+https://topdev.vn/jobs/search?utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=12507119974&gbraid=0AAAAADDtBSAUrkQGNJLmE3pfSUjITZ8_M&gclid=EAIaIQobChMI_uTd4IqVkAMV730PAh2s_ACHEAAYAiAAEgJYhfD_BwE&keyword=Automotive&page=1
+
+***
+Nguyễn Thanh Tuấn​
+​Automotive là lập trình xe điện, xe tự lái như của Vinfast, Tesla á anh
+(auto car)
+
+***
+Hữu Sơn​​
+Ngành kĩ thuật phần mềm bây giờ nên theo hướng nào ổn a ạ
+
+web và app mobile (app điện thoại)
+react
+android
+ios
+
+***
+
+Zy iT​​e học môn đồ án thực tế cnpm chọn đề tài web thương mại điện tử bán điện thoại mà thầy nói không thực tế a có đề tài nào thực tế không cho e vài í kiến với ạ e cảm ơn
+
+Tan Tai Nguyen
+​​theo dõi giá siêu thị ư
+Tan Tai Nguyen
+​​áp dụng AI báo cáo giá biến động
+
+
+***
+
+Lười Chăm Chỉ​​vậy ạ , học về game development thì cần học những gì ạ 
+
+học cách dùng engine
+
+unity + c#
+
+Tan Tai Nguyen
+​​tiếng anh AAA, hình học 2d 3d, chuyển động, vật lí, mỗi thứ một tí
+
+
+***
+Tuấn Nguyễn Anh​​em muốn học chuyên sâu về mảng cloud, anh tư vấn giúp em với
+tech lead
+
+coursera
+aws
+azure
+
+
+L2497​​theo chú thì mình làm game indie hay làm phần mềm sẽ vững hơn ạ tại con cũng hơi phân vân mà ko rõ nên chuyên sâu cái nào:/
+
+c: web
+
+game indie học tiếng anh để mở rộng cơ hội nghề nghiệp
+phần mềm??? app máy tính, app điện thoại
+
+web và app mobile
+
+game
+
+app máy tính
+
+***
+LearningAI​
+​con mới vô năm nhất muốn hướng tới chuyên ngành trí tuệ nhân tạo thì nên học những gì để chuẩn bị trước ạ
+học python
+
+
+Machine Learning nâng cao (Deep Learning, Reinforcement Learning)
+
+Computer Vision (thị giác máy tính)
+
+Natural Language Processing (xử lý ngôn ngữ tự nhiên)
+
+AI ứng dụng trong Robot, IoT, Big Data
+
+Cloud AI và MLOps (triển khai mô hình AI lên sản phẩm)
+
+***
+LearningAI​​Trước thầy học trường nào vậy ạ
+bí mật
+
+
+***
+L2497
+​​mình học về IT vô trường có cần chạy kiến thức nghe giảng ko ạ chứ con thấy mấy a chị vô bảo quan trọng trình độ của mình đến đâu thôi chứ vô trường chơi nhiều
+
+thực hành
+tự học nhiều vào
+
+***
+LearningAI
+​​thầy biết trang web nào hay sách nào hay để tự luyện phần giải thuật không thầy
+
+w3schools
+
+leetcode
+
+***
+
+L2497​​thầy thành thạo được hầu hết ngôn ngữ r hả thầy
+
+chưa thành thạo hết đâu
+golang
+lua (làm game)
+
+cơ bản c/c++, java, javascript, python...
+Thịnh code nhiều nhất là C#
+
+***
+Trần Phạm Hoàng Phong​​Em mới rải cv ở một số cty mà tình hình khoai quá. Tính học lên cao học
+
+rải thêm nhiều cv nữa
+10 cái nữa
+
+nghiên cứu sinh và giảng viên
+
+
+Nguyen Tung​​em học ce nên theo chuyên ngành robotics hay nhúng ạ 
+
+robotics -> auto car
+nhúng
+
+hàn quốc
+singapore
+nhật
+
+Zenzo Nguyen
+​​Nếu a k học it a sẽ học gì =))
+
+học gì ta???
+
+bigtech
+Câu hỏi trong phỏng vấn Technical (algorithm):
+- Quy hoạch động (Dynamic Programing hay DP)
+- BFS & DFS - Tree (cây nood)
+- Binary Search (thuật toán)
+- Two Pointers (con trỏ)
+- Hashing (mã hóa)
+
