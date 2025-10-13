@@ -1,0 +1,42 @@
+Marco Ha​
+​anh đang làm về mảng gì ạ
+
+c# cụ thể là làm web
+unity game 2d
+
+
+***
+
+Hoang 6494​
+​nhớ 2 câu là được rồi a. for i in range(n) và for i in range(n,-1,-1)
+Lyn Coding​​print ở trong for a
+
+
+***
+Vu Le​​Anh nghỉ sao về unreal nên chọn unreal hay unity để học làm game cho người mới bắt đầu
+=> unity
+
+***
+Rifu​​mới bắt đầu lập trình game thì nên làm dạng nào ạ tại em tính làm đơn giản như mario snake vân vân trước ạ
+
+pixel adventure 1 và 2 (gần giống mario)
+
+***
+Rifu​​em mới học C# mà muốn học làm game thì cần học thêm gì ko ạ
+tải unity hub về tạo dự án làm quen với unity engine
+
+***
+Nam Ngô ​​muốn học code nâng cao thì học ntn ở đâu v ạ
+Nam Ngô ​​e muốn học code web á a
+
+html css javascript
+c#: asp.net webform, asp.net mvc, asp.net core mvc, asp.net core blazor
+react
+nodejs
+java spring: hibernate...
+
+***
+Hoang 6494​
+​cho n. Hỏi trong khoảng 0<a,b<n có bao nhiêu cặp (a,b) trong đó a và b đều không chứa số 0. với giới hạn n<=10^15.
+​điều kiện là a+b=n. 
+

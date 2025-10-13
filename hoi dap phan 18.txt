@@ -1,0 +1,365 @@
+***
+Các loại lập trình dựa trên cách code:
+Lập trình hướng dịch vụ:
+Tất cả đều gọi đến cùng một dịch vụ qua API.
+(tạo service và gọi api)
+(Kiến trúc hướng dịch vụ)
+***
+Các thời kỳ lập trình:
+Lập trình hướng thủ tục
+Lập trình hướng đối tượng
+***
+Lập trình đa định hướng: Kết hợp lập trình hướng thủ tục - hàm, lập trình hướng đối tượng
+
+***
+thi Hoang
+​​thường đi phỏng vấn về .Net thường ngta sẽ hỏi đến những gì a nhỉ.
+
+đáp:
+lead, techlead:
+  - DI
+  - Bất đồng bộ: asyn await
+  - Delegate
+pm, cto: (hỏi xem mình có hợp với văn hóa công ty không, có làm việc với nhau được không)
+
+***
+phỏng vấn vòng 1:
+cách đảo ngược linked list
+
+***
+Tại sao ko dùng sql mà dùng nosql
+nosql nhanh hơn
+
+***
+phần mềm quản lý, web bán hàng
+
+
+***
+ngân hàng: dùng Oracle
+bệnh viện: dùng MicrosoftSQL, Oracle
+
+MicrosoftSQL (sql)
+bỏ quan hệ giữa các bảng -> ứng dụng nhanh hơn (tự control quan hệ giữa các bảng)
+
+
+***
+Đức Việt Hoá​​
+theo ngành gì để dễ kiếm việc đây anh
+kinh tế khó khăn -> ngành nào cũng khó kiếm việc
+
+***
+Gia Bảo Trần Văn​​theo phát triển app nên dùng react native hay kotlin để viết app a
+kotlin
+
+***
+Đức Việt Hoá
+​​làm sao để tìm được cảm hứng học c++ đây
+- đặt mục tiêu làm game
+- thi điểm cao???
+
+***
+Gia Bảo Trần Văn​​làm web như kiểu facebook nên dùng kiểu csdl SQL hay NoSQL để kết bạn nhắn tin quản lí các bài viết
+-> sql (MicrosoftSQL, MySQL)
+(làm trang web "mạng xã hội")
+(học)
+
+***
+intern -> fresher
+fresher -> junior
+junior -> senior
+backend -> làm luôn frontend
+(yêu cầu cao, bóc lột)
+
+phân theo kiểu của fpt:
+dev 1: intern học
+dev 2: fresher học làm nhóm
+dev 3: junior biết làm
+dev 4: senior chỉ huy (xử lý vấn đề khó mà cả dự án bó tay)
+(tính hiệu xuất làm việc của project - nhanh chậm)
+biết làm hơn junior
+
+pm, lead, techlead, cto đều biết cách tính hiệu xuất làm task (pm chia task...)
+
+Tính theo số click chuột.
+
+C/C++
+Javascript (tiến tới làm bài hướng dẫn nhỏ nhỏ về react)
+
+***
+Hana Yuuki​
+​tại sao những người làm văn phòng thích dùng windows
+
+do doanh nghiệp người ta toàn dùng windows thôi
+từ máy tính văn phòng để sản xuất (code) tới máy in tài liệu (kết với windows)
+
+máy tính cài windows + máy in
+
+cài driver mạng lan
+
+
+dc j cx​​chú ơi máy của con cắm dây mạng vô rồi mà nó chỉ có mạng một lúc lại mất và không kết nối được thì fix làm sao ạ
+
+
+Goharo•DCP​​nên học ngôn ngữ nào ở back-end v anh , và nếu chọn đc thì nên học gì ở data base 
+
+c# -> MicrosoftSQL
+java -> Oracle Database
+nodejs
+
+***
+adv​​lương lập trình viên mới ra trường khoảng nhiêu vậy a
+
+intern 5 tới 6 triệu
+fresher 7 tới 8 triệu
+junior 10 triệu
+...
+tùy chi nhánh và tùy từng công ty
+
+BeLoDy​​ae xem thử viettel đi, bạn tôi intern viettel 10 củ 1 tháng
+
+***
+Trung Mai​​nên làm thêm dự án vào bỏ vô project đc anh nhỉ (em năm nhất đã có vài project)
+- dự án ok một chút: chạy ngon nghẻ, không lỗi
+Trung Mai​​Thiên về công nghệ mới chút anh nhỉ 
+kết AI (trang bán hàng có AI hỏi đáp)
+***
+Công Ngô​​lập trình nhúng ok ko chú
+ok
+
+Cường Nguyễn Đức​
+​em sắp đi làm về nhúng rồi nhoa anh 
+
+***
+dc j cx​​nhưng ko có mạng sao cài driver được ạ
+Dùng máy khác để tải driver rồi chép qua USB
+
+
+***
+Công Ngô​​cháu thấy vào fpt mà ko thực sự rất giỏi thì cty chỉ cho mik 1 vài cái job nhỏ r mik tự out ra thôi đk ạ
+nếu trúng project có công nghệ dễ + cần nhiều người làm thì chúng ta vẫn có thể ở lại được (ở lại bao lâu: phụ thuộc vào sếp thuê chúng ta có muốn chúng ta ở lại không - CTO)
+
+
+***
+Trung Mai​​ví dụ làm web blog giao diện hiện đại kết hợp AI được anh nhỉ
+chat với AI (cấp độ dễ nhất)
+cào dữ liệu: lấy bài viết từ trang blog trang tin tức khác về
+cào dữ liệu + AI
+
+web đặt lịch hẹn: chat với AI
+
+
+
+***
+Tuyền Vũ​​Bắt đầu sớm là tốt r , lm thử mấy con game 2d trc rồi qua 3d cho đỡ bỡ ngỡ , chứ nhẩy vào lm 3d như tôi tìm mỏi ng 
+unity 2d -> unity 3d
+
+c++ sdl khó
+
+đồng hồ sinh học
+
+***
+Tấn Nguyễn Ngọc​​2026 có nên học python không anh
+nên học
+thời đại AI
+xử lý dữ liệu với python
+
+clean code
+code đơn giản để người khác hiểu, không đánh đố đồng nghiệp
+
+***
+JavaScript với HTML+CSS
+làm web thì phải có đủ: html css js
+Hoang 6494​
+​HTML là cơ thể, css là quần áo, js là hệ thần kinh
+
+html skeleton (khung của trang web)
+css 
+js: xử lý event (xử lý sự kiện)
+
+code trang web tĩnh với 3 thằng:
+html: tạo cấu trúc trang web
+css: làm đẹp, bố trí giao diện (màu sắc, phông chữ, hiệu ứng, ...)
+js: xử lý event, tạo tương tác trong trang web
+
+chỉ có html không không thôi thì cũng deploy được ha (không chỉ chạy local không thôi)
+
+***
+
+html là ngôn ngữ đánh dấu siêu văn (markup language)
+css là ngôn ngữ định kiểu (style sheet language)
+xml là ngôn ngữ đánh dấu
+js là ngôn ngữ lập trình
+
+c/c++/c#/java/python/js: ngôn ngữ lập trình
+
+sql: ngôn ngữ truy vấn
+
+
+java làm web làm app máy tính/điện thoại
+c# làm web làm app máy tính/điện thoại + làm game
+
+***
+
+Darbriel Loisurdo - MiniVy​​Vậy mọi người lúc muốn deploy thì thường dùng tên miền ở đâu hay đăng trên github thôi ạ?
+
+- mua tên miền: namecheap (khi mua lưu ý cần tắt chế độ tự động gia hạn, nếu không sẽ mất rất nhiều tiền oan)
+- vps linux command line (not GUI) (server lưu trữ trang web và các dịch vụ): huawei (free tier miễn phí dùng 12 tháng), alibaba, microsoft (azure), amazon (aws), oracle (free tier)
+nginx: máy chủ web (web server)
+certbot (chạy https trên vps linux miễn phí, tự động gia hạn dịch vụ ssl)
+mysql + mariadb (wordpress): trang web tĩnh nên chúng ta sẽ không cài mysql
+
+trên máy loal: cài PyTTY hoặc BitviseSSH Client để truy cập vào thư mục của vps một cách dễ nhất (có thể dùng lệnh trong linux nhưng phức tạp hơn)
+
+học các câu lệnh trong linux để deploy
+học cách cấu hình proxy
+
+***
+Data Analyst:
+  Excel
+  SQL
+  Python
+  PowerBI
+
+***
+Satoshi Nakamoto
+​
+​website đọc truyện khó làm quá anh
+
+vì người ta có thể kiếm được tiền từ nó nên người ta ít chia sẽ cách làm
+
+hầu như không có giao diện dành riêng cho web truyện
+
+wordpress đã làm rất tốt đề tài này rồi (web truyện, cào truyện, quản lý truyện)
+
+***
+đăng hình lên cho cộng đồng xem:
+- upload, show image, tải image
+
+
+***
+Quý Trần​​em đang làm web có chức năng tự động payload thử các lỗi sql injection anh nghĩ có vấn đề gì khó khăn không anh 
+???
+
+
+***
+cloudflare
+
+domain được mua được quản lý bởi cloudflare (tự chống ddos)
+vps của nhà cung cấp có tính năng tự chống ddos
+
+web yếu hay mạnh phụ thuộc vào cấu hình và nhà cung cấp dịch vụ (nhà cung cấp domain và vps)
+
+2gb ram
+lưu trữ: 10gb
+deploy wordpress
+(cào dữ liệu 24/24)
+
+***
+11 TS​​web cổng thông tin việc làm có các chức năng gì cần lưu ý gì ko a
+- làm đầy đủ chức năng: 
++ trang tuyển dụng:
+đăng ký đăng nhập
+tìm việc và lọc việc làm (người tìm việc) => chức năng apply
+đăng tin tuyển dụng (nhà tuyển dụng)
++ trang quản trị:
+quản lý người dùng
+quản lý tin tuyển dụng (xem và xóa)
+
+***
+Độ Bùi Đình​​Theo bác đồ án php của tôi gồm tìm kiếm sản phẩm,lọc sản phẩm theo giá, tìm kiếm sản phẩm theo phần lọc giá,giỏ hàng,thang toán cod và online thì nên tích hợp chatbot Al tư vấn bán hàng ko
+
+***
+Hữu Sơn​​Mà thầy em nói nên học C++ với Java để nắm bắt căn bản rồi muốn học lên ngôn ngữ nào cũng được
+C với Java đều dùng %... abc("def", varibale)
+C++ nối chuỗi không dùng %
+C# thì dùng cách nối chuỗi: abc("def" + varibale)
+
+<<
+>>
+
+***
+Satoshi Nakamoto
+​anh thấy môn cấu trúc dữ liệu và giải thuật có khó không?
+
+***
+Rifu​​hồi trước cấp 2 em được học pascal với được đi thi thành ra chuyển qua C#python này nọ thấy nó ko quá ngợp @@
+
+cấp 2 học pascal
+cấp 3 học c++ và python
+đại học: c c# java php javascript
+đi làm: typescript, angular, VB.NET, ...
+
+
+***
+C#:
+Winform làm app máy tính
+WPF làm app máy tính
+WinUI làm app máy tính
+web: asp.net webform, asp.net mvc (.net framework), asp.net core mvc (.net core), blazor (.net core) + react, angular
+app điện thoại: xamarin, blazor hybrid maui
+game: unity engine
+
+asp.net mvc: html css javascript (rất nặng về javascript) c#
+asp.net core mvc: html css javascript (rất nặng về javascript) c#
+
+webform, winform, java swing: kéo thả control
+
+
+c#
+code web
+
+
+***
+_dailyw.tdt_​​đi lm đụng tới VBA mới khóc a ~
+VBA dùng excel
+liên quan tới Data Analyst
+
+***
+do dự án và do công ty:
+tasK: yêu cầu viết tool hỗ trợ dự án
+
+winform -> techlead review -> đổi thành wpf cho anh -> wpf
+
+học typescript + angular
+
+Độ Bùi Đình​
+​Nếu lm mobile thì làm những dự án gì
+android: code java
+ios: code swift
+
+Access (trong bộ microsoft office)
+trước năm 2000
+
+convert sang Access bản cao hơn từ file cũ (1 phần của dự án)
+
+***
+Gia Bảo Trần Văn​​e học NodeJS chuyển qua NestJS để theo hướng typescript + oop đc k a
+được, ủng hộ
+
+***
+Gia Bảo Trần Văn​​java với kotlin cái nào androi hỗ trợ tốt hơn a em hỏi chat gpt lúc cái này lúc cái kia
+
+***
+Satoshi Nakamoto
+​
+​ông thầy kêu làm app với web đọc truyện, toang r anh ơi
+
+
+
+***
+
+11 TS
+​​anh nghĩ sau 2 năm nvqs ra cơ hội tìm việc cho ngành IT còn cao koa ạ, e còn 1 năm nữa chuẩn bị ra trường
+hy vọng kinh tế nó ổn định trở lại
+
+Cường Nguyễn Đức​
+​tùy nếu em vô trg ngon + giỏi thì có cơ hội còn ngược lại thì nó lại là câu chuyện khác
+
+ngược lại thì phải tích lũy kinh nghiệm: làm không lương hoặc có lương thấp sau đó lấy kiệm để apply vào công ty trả lương cao hơn vị trí cao hơn
+
+3 năm kinh nghiệm -> biết làm (dành 3 năm để học và lấy kinh nghiệm)
+
+​node.js với mongoDB
+chung database
+
+

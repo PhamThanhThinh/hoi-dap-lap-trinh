@@ -1,0 +1,57 @@
+​socket có thể liên quan tới phần gửi nhận gói tin trong một trang web (hack web)
+
+Tee yuu Kim​
+​đại ka ơi e mới hc lập trình thì hc cgi v đại ka
+
+lập trình căn bản
+c/c++/python
+
+html css javascript
+
+c# (unity engine)
+
+java
+
+cấu trúc dữ liệu giải thuật
+cơ sở dữ liệu
+
+
+Dũng Anh​​thị trường IT giờ đối với sinh viên ra trường thì job của front end và back end thì bên nào nhiều hơn ạ
+-> backend
+
+
+tiếng anh phải có
+tiếng nhật (options)
+
+Tuấn Anh Nguyễn​​Anh ơi em là sinh viên năm nhất mà em định học về data thì em nên học c++ hay python đấy a
+-> python
+
+Phạm Huy
+​​a thấy ngành hệ thống thông tin giờ như nào a
+
+PM số lượng công việc trên thị trường ít hơn so với dev
+nhưng bù lại lương cao
+
+dev 1 2 3 4 -> leader ... -> PM
+
+
+***
+Trương Thành​​Giời nhiều bạn phụ thuộc vào chatgpt quá, em phỏng vấn nhiều bạn chỉ hỏi mấy câu SQL và cấu trúc dữ liệu cơ bản mà nhiều bạn ko làm được.
+
+***
+Huy Đặng​​Dạ em chào anh e làm 1 UI/UX Design bây giờ e đang phân vẫn giữa việc học thêm html và css để sử dụng được gsap trong các nền tản no code như framer hay em nên học thêm về các tool design nữa ạ
+chọn cả 2
+
+***
+game c#: unity engine (thường người ta sẽ học unity game)
+game c++: sdl, opengl, cocos2dx
+
+4 tháng: làm được 1 con game để thực tập (fresher) có thể làm dự với team
+
+add vô cv
+
+***
+Tuấn Nguyễn Anh​​anh ơi nếu bấm chuột phải vào tài khoản yotube trên máy tính rồi bấm chọn kiểm tra phần tử khi này nó sẽ hiển cả phần lập trình trong tài nhưng có chỉnh sửa gì đc không ạ
+
+sẽ sửa được giao diện nhưng khi load lại sẽ mất
+
