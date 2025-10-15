@@ -1,0 +1,268 @@
+Lê Hùng Vương​
+​cái dashboard mình làm tay kết nối database hả anh
+
+up database lên hosting để kết nối code với database
+
+hoặc dùng lệnh update-database (code first)
+
+***
+
+VPS Linux
+free tier (1 năm): huawei, alibaba, ...
+
+VPS Linux của Oracle (free tier miễn phí trọn đời)
+
+nếu đăng ký được (để đăng ký được ta cần có một ít tiền trong tài khoản atm) => cho tên người dùng và ip vào danh sách đen
+và dùng tài nguyên không vượt quá hạn mức trong gói free tier
+
+Tắt tính năng tự động gia hạn của gói free tier
+
+Domain: năm đầu tiên mua rất rẻ
+
+***
+
+Farssc​
+để hiểu được ​Suffix Automaton thì có cần làm mấy bài toán kiểu “string hardcore” ko anh?
+đáp: có, chắc chắn phải làm rồi
+
+***
+
+Hana Yuuki​​Tại sao đa số công ty bây giờ chọn những jdk khác của oracle nhỉ
+
+công ty nó giàu thì nó không quan tâm giá tiền
+
+***
+
+wordpress: nginx
+
+***
+Hana Yuuki​
+​amazon corretto là jdk của amazon
+
+***
+dùng máy điện thoại thật để test app android
+
+***
+Hana Yuuki​
+​@Coding With Thinh Anh vào công ty big tech bao giờ cũng bắt dùng jdk khác của oracle
+
+thị trường Nhật dùng Akka framework (Java Developer)
+
+
+***
+
+studio firebase
+
+
+***
+Hana Yuuki​
+​@Coding With Thinh Thế bây giờ nhiều người thích openjdk lắm đấy à
+
+***
+
+​unity
+
+đã đăng clip bài số 5 lúc 7 giờ tối
+
+
+***
+15ff​​hiện tại công việc chính của anh là gì vậy?
+
+coding và dạy học
+
+***
+​win server
+
+vps, server
+
+***
+PM, TechLead, Leader, QA, BA lương cao
+vị trí thấp thì lương bình thường như lương của mọi nhân viên văn phòng khác thôi
+
+***
+
+Huy​
+​it vua mọi nghề
+
+xưa rồi cưng
+
+***
+
+Cài Xcode rồi thì có cần cài Visual Studio Code (VSC) nữa không?
+
+có chứ sao không
+
+***
+sql
+MSSQL
+MySQL
+
+***
+sql Server
+
+***
+Darbriel Loisurdo - MiniVy​
+​Mn ơi vY không chạy được C++ trên VSC thì phải làm sao ạ? Nó có liên quan đến cái JDK hay trình chạy gì đó không? Chứ nguyên vY copy code từ thư viện ra mà nó chẳng chạy gì cả. :(
+
+cài MSYS2
+tức là cài compile cho hệ điều hành
+VSCode chỉ là nơi để viết code thôi
+
+
+Install MSYS2
+Install GCC
+Update packages
+Install GDB
+Install Make
+Add environment variable
+Install extensions
+Run code
+
+***
+Hana Yuuki​
+Java tại Microsoft trải dài từ Azure đến Minecraft, từ SQL Server đến Visual Studio Code, LinkedIn và hơn thế nữa! Chúng tôi sử dụng Java nhiều hơn mức tưởng tượng
+
+Hana Yuuki​
+​Bản dựng OpenJDK của Microsoft là một bản phân phối mới miễn phí, được hỗ trợ lâu dài và là cách thức mới của Microsoft để cộng tác và đóng góp vào hệ sinh thái Java.
+
+***
+Satoshi Nakamoto
+​
+​anh ăn ở ngoài một ngày tốn nhiều tiền ko anh
+
+một bữa ăn:
+15 1 phần ăn
+15 1 ly nước
+30 nghìn
+
+1 ngày 3 bữa ăn thì hết 90 chục nghìn
+chưa kể ăn khuya 15 nghìn
+
+tổng một ngày ăn quán từ 90 nghìn cho tới 105 nghìn
+
+tổng tiền ăn một tháng: 2,700,000
+
+***
+
+Thi Hoang donate 30 nghìn
+
+
+***
+
+Satoshi Nakamoto
+​
+​ăn cái gì mà 15k v anh : ))
+
+ăn hủ tiếu thường
+
+***
+Hana Yuuki​​@Coding With Thinh Thế nghĩa là anh không tìm hiểu sâu về build systems à
+
+Thịnh code về mảng sản phẩm: web, app, game mà
+
+***
+Satoshi Nakamoto
+​
+​15k chắc mua đc ổ bánh mì : ))
+
+***
+Sơn Phan​​15k bây giờ ăn được gì trên đất sg đây tr :))
+
+Satoshi Nakamoto
+​
+​SG chắc chỉ có nước suối là rẻ : ((
+
+chở gạo từ quê lên SG bằng xe khách
+ăn trứng gà
+add thêm những vật dụng khác hoặc gia vị vô bao gạo đó luôn
+
+=> tự nấu ăn => tiết kiệm nhất
+
+***
+Thịnh 97
+
+
+***
+Văn Linh Đinh​​a nói về cách hđ của reactjs vs aspnetcore đc ko ạ 
+
+backend + frontend:
+nodejs + reactjs
+aspdotnetcore + javascript thuần
+aspdotnetcore + blazor
+
+***
+alex join​​anh ở DN hả anh
+quê Thịnh ở Quảng Nam
+
+***
+
+Hữu Sơn​​Theo anh ielts hay toeic tầm bao nhiêu là đủ để đi intern ạ
+
+7.5
+
+***
+Quân Lê​​anh có đi làm khoonga nh
+không đi làm lấy gì ăn
+
+Quân Lê​​anh làm ở vị trí nào vậy anh
+
+member bình thường ^^ :)))
+
+***
+Darbriel Loisurdo - MiniVy​
+​Chú ơi con tự học HTML css JavaScript thì ra năm nhất con lên đại học có đi intern được luôn không ạ?
+
+học thêm nodejs và reactjs
+
+***
+Văn Linh Đinh​​giờ học cơ bản khó xin thực tập quá a có thể note một vài chức năng aspnetcore cụ thể để xin intern dc ko ạ
+
+web bán hàng: chức năng giỏ hàng, thanh toán online/cod, 
+
+
+***
+alex join​​anh ở đau đà nẵng bữa nào mời anh cf á anh ??
+
+***
+thuật toán tìm kiếm
+https://www.youtube.com/watch?v=mWNLMg2WxY0
+https://www.youtube.com/watch?v=JqOPBodZmLk
+
+***
+free
+tài liệu tiếng việt:
+xuanthulab
+tài liệu tiếng anh:
+w3schools
+
+
+***
+Quân Lê​​anh có định làm một cái web mở khóa học ko anh
+100GB rất đắt
+VPS mua không nổi
+
+2GB RAM
+10GB ổ cứng
+
+
+***
+udemy (thu phí) => paypal (thu phí)
+
+300 nghìn paypal
+rút về còn 200 nghìn (chuyển tiền từ nước ngoài về ngân hàng ở VN)
+
+***
+Quân Lê
+​​anh cựu sinh viên trường nào vậy anh
+
+bí mật
+
+***
+Hữu Sơn
+Hội viên mới
+​​mấy khóa học free trên udemy có oke ko a
+
+thấy có nhiều người học và có nhiều lượt đánh giá tốt thì mình theo
+
+Eclipse được mod lại để code C++
+

@@ -1,0 +1,123 @@
+Darbriel Loisurdo - MiniVy​
+​Chú ơi thường mọi người cài Linux thật hoặc máy ảo thì sẽ dùng bản nào của Linux ạ? Con biết mỗi Ubuntu à
+
+vps Linux cài Ubuntu (cmd, command line, dòng lệnh) để làm server cho một trang web
+
+doanh nghiệp có thể dùng fedora...
+
+
+***
+Công Võ Thành​​python mạnh về cái gì thế anh với java nữa ạ em thắc mắc ạ
+
+python mạnh về xử lý dữ liệu (phân tích dữ liệu)
+java làm sản phẩm web và app điện thoại/máy tính
+c# làm web app game
+web aspdotnet
+app: windowform, wdf, winui, blazor hybrid maui
+game unity engine
+
+Quân Lê
+​​e học web có cần cày thuật toán ko anh
+
+bạn chưa học qua lập trình bao giờ thì nên học thuật toán
+nếu đã học qua thuật toán thì tập trung vào học cách làm web thôi
+
+J97
+
+10fastfingers
+
+
+2007
+
+Công Võ Thàn
+h​​e hc nhúng thì ko bt là các nn khác nhau có thể kết hợp lại tạo ra đc 1 sản phẩm không anh ? Và a đg đi làm ở mảng nào thế anh ??
+
+web aspdotnet: c# html css javascript sql 
+web java spring: java html css javascript oracle database
+
+app máy tính: c#, xml hoặc java, xml
+
+unity game: ngôn ngữ lập trình c#
+
+app điện thoại: xaml, c# hoặc dùng java dùng kotlin
+​flutter, react native
+
+
+Thịnh code C# về mảng
+
+
+***
+Kevin_NG​​em học ô tô thì nên học code cơ bản về gì vậy anh
+
+auto car: c/c++ (​automotive)
+
+
+Hana Yuuki​
+​vs code và github dùng electron
+Electron (viết hoa, tên phần mềm) là một framework do GitHub phát triển, cho phép xây dựng ứng dụng desktop bằng HTML, CSS và JavaScript.
+
+
+Công Võ Thành​
+​app mình xài java thế giao điện ha tương tác là nó luon chứ ko cần css là html à anh còn kolin là sao ạ 
+
+app điện 
+
+Doan Vũ (Jin)​​ios: Objective C, swift
+Doan Vũ (Jin)​​android: java, kotlin
+Doan Vũ (Jin)​​cross platform: flutter, react native
+
+
+còn chứ sao không
+C# được chống lưng bởi Microsoft
+
+Doan Vũ (Jin)​​unity thì làm game ra cho mobile cũng là app
+
+
+Doan Vũ (Jin)​​đang nói c# code app mobile ấy
+html css js + blazor hybrid maui (.net core) + xaml
+
+Quang Linh vlog - TDH​
+​mình viết app SCADA vẫn dùng C#, java ít dùng hơn
+
+***
+Quân Lê​​
+làm một cái giao diện đơn giản thôi anh mà em bị mất gốc
+nên bù lại càng sớm càng tốt
+
+***
+ENVIOUSSS​​Em đang theo học lập trình Java và Python. Sau một thời gian thì cảm thấy bản thân chỉ có thể đọc code sẵn và hiểu nó làm gì, chứ không thể nhìn 1 đề bài mà tự code ra thành phẩm được ;-; 
+ENVIOUSSS​​Anh có định hướng nào không ạ 
+làm bài tập nhiều vào
+chuyển sang tìm hiểu về làm web làm app
+python (phân tích dữ liệu pandas numpy...)
+
+***
+Công Võ Thành​​a có bt về dev linux không anh ?
+
+
+***
+Satoshi Nakamoto
+​dạy java đi sếp ơi
+
+unity c# -> sau đó mới làm một vài video về java
+
+
+***
+Nhật Hoàng
+​​mai em thị chọn để thi tỉnh ah tặng em 1 câu đc ko ạ :<
+
+chúc Nhật Hoàng thi tốt
+
+
+***
+trường đại học dùng c++ để học hướng đối tượng
+
+***
+
+Công Võ Thành​​xưa a hc trường nào thế anh
+
+***
+
+Công Võ Thành​​xưa a hc trường nào thế anh
+
+bí mật
