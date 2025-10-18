@@ -1,0 +1,104 @@
+Cường Nguyễn Đức​
+​anh ơi giờ em đang jocj 1 phần về code khá là khó và em đang rất nản anh có lời khuyên gì ko anh 
+
+Đăng lên công đồng lập trình nhúng trên facebook ở VN
+
+Cường Nguyễn Đức​
+​em cx đăng lên nhiều rồi anh nhưng ko ai trả lời anh chắc cách đây 2 tuần rồi anh
+
+hỏi thầy
+
+Cường Nguyễn Đức​
+​em cx ko bt hỏi thầy cô nào anh vì kiến thức em đang học là năm 3 rồi anh 
+
+cứ hỏi không sao đâu
+
+***
+Hoang 6494​
+​e cũng nhận ra youtube là nơi lưu trư video ko giới hạn dung lượng ngon nhất
+
+không giới hạn số lượng nhưng giới hạn số GB của một video tải lên và số giờ của video, cụ thể là < 12 tiếng đồng hồ
+
+***
+Life 3.0
+​
+​tiểu cường à anh
+
+đúng
+
+***
+Hoang 6494​
+(problem solving)
+​giờ khác lắm anh. Bây h giải tthuật phải làm đủ 4 bược. Abstact->Problem identify (pattern recognition) ->Algorithm design->Evaluation
+
+***
+Cường Nguyễn Đức​
+​em nghĩ nên ko chứa kí tự cho nó tư duy hơn anh chứ n > 0 thì nó kiểu sẽ thiếu và ko tăng tư duy í anh 
+
+***
+Cường Nguyễn Đức​
+​em nghĩ anh nên cho bài nhập n thỏa mãn điều kiện là số dương và ko chứa kí tự anh 
+
+***
+Hoang 6494​
+​cái hội nghị cho mấy đứa não to là CVPR, computer vision and pattern recognition
+
+***
+Trong bảng `Results`, cột `SID` là khóa ngoại tham chiếu đến khóa chính `SID` trong bảng `Students`. Điều này có nghĩa là cột `SID` trong bảng `Results` cũng là một khóa (key) cho bảng `Results` không?
+
+***
+Độ Bùi Đình​​Đi dạy thì bác xài laptop riêng hay công ty cấp
+Việt Nguyễn​​bác dạy trung tâm hay giáo viên
+
+bí mật
+
+laptop công ty cấp
+
+***
+
+Cường Nguyễn Đức​
+​để em chụp ảnh anh rồi đăng lên facebook là biết ngay mà anh
+
+nô
+
+***
+
+Trần Phạm Hoàng Phong​​Chuyên ngnahf gì thế Hoàng
+Hoang 6494​
+​computer science
+Trần Phạm Hoàng Phong​​Đỉnh vậy! Mình bên data science 🙂 Nhưng chuyên về computer vision.
+
+***
+Life 3.0
+​
+​sếp ở Bosch đó anh
+
+https://www.glassdoor.com/index.htm
+
+
+***
+thị trường việc làm
+Hoang 6494​
+​ví dụ bên global talent nè anh, nó đi tìm free cho anh luôn
+
+Hoang 6494​
+​qua đc hay ko là hữu duyên
+Hoang 6494​
+​nó như là trụ sở hỗ trợ việc làm á
+
+Hoang 6494​
+​Ví dụ giống như tri thức việc á anh
+
+***
+Dau Vuong​​anh ơi ko liên quan lắm nhưng em có 1 câu hỏi là hệ thống thì có phải là 1 actor trong biểu đồ user case không ạ
+
+một actor hoặc hai đều được
+
+***
+Lê Vĩ​​Anh oi nếu học lập trình thì hết bao nhiêu tháng thì ổn ạ
+
+học một cái thì mất từ 6 tháng tới 1 năm
+backend
+frontend
+
+***

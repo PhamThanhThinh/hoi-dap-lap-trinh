@@ -1,0 +1,332 @@
+Hana Yuuki​
+​vs code hỗ trợ jupyter mà
+Hana Yuuki​
+​python không xử lý tệp nhỉ phân tốt như c và c++
+
+***
+
+Hana Yuuki​
+​vs code thích visual c++ cho windows native và gcc trên wsl2 hơn. không tối ưu cho gcc/mingw trên msys2
+vì chung Hệ sinh thái của Microsoft
+
+***
+game 2d => game 2d rpg/game 3d (bảo vệ thành trì)
+
+***
+OpenDevin: code dùng AI (đọc nguyên 1 project)
+
+***
+Hana Yuuki​
+​@Coding With Thinh Nghĩa là dùng Docker Desktop trên WSL2 được
+
+***
+Hoang 6494​
+​docker học mãi mới đóng đc cái mysql image
+
+***
+Hoang 6494​
+​viết financial aids
+(coursera)
+
+***
+Hatosutira Gaming​
+​anh ơi hay là anh hướng dẫn cách lồng quảng cáo google ads vào game đi anh . Tư bản 1 tí mới giàu được anh ạ =))
+
+***
+FakeMG
+
+***
+game rác => vẫn kiếm được tiền => ok
+
+***
+Xem quảng cáo nhận lượt quay gacha
+Xem quảng cáo nhận skin
+Là chơi xổ số để lấy nhân vật, skin và vật phẩm ạ
+
+
+
+
+
+
+
+***
+Hoang 6494​
+​xem quảng cáo nhận mảnh skin, 100 mảnh skin có đc 1 cái skin.
+
+
+Hatosutira Gaming​
+​180 roll mới ra thì cũng khoai lắm bro ạ
+gacha gây nghiện
+
+***
+Le van Tuan​​em đang phân vân giữa theo 
+Le van Tuan​​KHMT và CNPM anh em đag định hướng sang KHMT sợ khó nhưng nó lại khó a giờ khó chọn quá
+CNPM là lựa chọn an toàn
+
+***
+game unity c#
+
+***
+Nguyễn Anh Tài
+​​Có nên đi thực tập không lương ko anh
+thực tập 6 tháng không lương => chuồn lẹ
+thực tập 4 tháng không lương => chạy gấp
+thực tập 3 tháng không lương => tạm chập nhận được
+
+***
+Hoang 6494​
+​Thục tập ko lương là đang đi làm hay đi học vậy a. E cũng ko biết nữa
+này là đi học rồi
+
+***
+thi Hoang​​ý là em xin làm dự án của nước ngoài nhưng mà ở VN ấy a.
+được chứ
+làm remote nha
+tiếng Anh nói được ở cơ bản
+Phillipin
+
+***
+Hoang 6494​
+​anh kể lại giai đoạn thực tập ko lương của anh đc ko anh
+thời đó có lương mà
+
+***
+thi Hoang​​thì liệu xin mấy công ty đó khó k ạ, và sẽ trung gian thường sẽ là qua nền tảng nào ạ.
+
+
+***
+VB.NET
+
+***
+CTO
+
+***
+ Chứ ae đều đi làm công ăn lương với nhau mà
+
+ đúng đồng ý
+
+ làm công ăn lương cùng vị trí
+
+EXP
+
+***
+Hoang 6494​
+​24 tuổi thì 5 năm kinh nghiệm đc rồi
+24 tuổi nên fake cỡ 2 tới nhiều nhất là 3 năm kinh nghiệm
+
+***
+Hoang 6494​
+​có ông nào tên rest nghĩ ra rest api à anh
+nô, người ta thích đặt cái gì thì người ta đặt, không nhất thiết phải dùng tên mình
+
+***
+dai nghĩa Nguyễn​​giờ đi fresher .Net thì kiểu nên có thêm kiến thức về gì v ạ
+
+web, app, game
+
+web: rest api, microservice, ..., 2 project web (chạy ngon)
+game: 2 project game (chạy ngon)
+app: 2 project app (chạy ngon)
+
+web: .net framework, .net core, blazor, component, razor, ...
+DP, DI, Bất đồng bộ, ...
+
+***
+thi Hoang
+​​anh thử sài bolt ai chưa a
+
+bolt ai
+
+bolt ai (chuyên về web)
+https://bolt.new/?utm_term=bolt%20ai&utm_campaign=Search-bolt&utm_source=adwords&utm_medium=ppc&hsa_acc=1356040017&hsa_cam=21829686702&hsa_grp=172881762401&hsa_ad=770408423491&hsa_src=g&hsa_tgt=kwd-2090781411745&hsa_kw=bolt%20ai&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21829686702&gbraid=0AAAAA-WCawWIc3hxHZzLVXuHVwYrhkPIh&gclid=EAIaIQobChMI_rHHt76rkAMVVMRMAh1QBDpiEAAYASAAEgI4i_D_BwE
+
+***
+Hoang 6494​
+​Nghe chat gpt bảo rest api nằm ở trong luận án tiến sĩ của ông làm ra http
+
+***
+Hoang 6494​
+​một api có thể là rest api nhưng có khi không phải restful api phải không anh
+
+***
+
+làm một khóa về devops???
+
+
+***
+Hoang 6494​
+​anh ơi, có thể dùng post để get data ko anh ?
+
+get
+post
+
+Hoang 6494​
+​dùng method post để thay method get
+cứ dùng get cho chắc ăn
+
+
+***
+
+Farssc​​sao ngày nào cũng vuốt tóc chẻ ngôi lệch thế
+
+***
+Hoang 6494​
+​kiểu thay vì get/user/5 ta code POST /getUserData?id=5
+như thế thì được chứ
+
+***
+ POST /getUserData?id=5
+chuyên dùng để delete và update
+cần xác định chính xác id để delete và update
+
+
+***
+Hoang 6494​
+​thế thì nó có chữ UPDATE và DELETE chứ anh
+
+không nhất thiết
+
+tại đang mưa quá
+
+***
+Vu Le​​Ngày trước anh học trường gì mà ngàng gì ạ?
+
+ngành CNTT
+công nghệ phần mềm
+
+***
+Hoang 6494​
+​interface khác gì abstract class anh?
+
+***
+Interface: định nghĩa (không viết phần logic vào)
+Abstract: triển khai (logic cụ thể)
+
+service
+repo
+
+***
+Hoang 6494​
+​Một trong những tính chất quan trong của oop là đóng gói. Anh có thể thử đóng gói 1 đoạn code ko anh
+sẽ code khi làm slide tới phần đó
+
+***
+Life 3.0
+​
+​Đà Nẵng lạnh ko anh
+
+trời rất nóng, mặt dù nó mưa tầm tả nhưng vẫn nóng
+nhiệt độ từ 30 tới 35 độ
+
+***
+Hoang 6494​
+​sự khác nhau giữa class và attribute so với object và attribute là gì v anh
+
+class và object đều dùng attribute chứ nó không dùng property nha
+trong hướng đối tượng không chơi property
+
+Hoang 6494​
+​chắc ko anh?
+
+chắc => chờ câu trả lời từ HuyHoang
+
+
+attribute và property trong tiếng Việt nó đều dịch thành thuộc tính
+
+object và property không liên quan gì nhau
+
+object và attribute có liên hệ rất chặt chẽ với nhau, gần như là hai khái niệm đi đôi trong lập trình hướng đối tượng và cả trong các ngôn ngữ như JavaScript, Python, C++, v.v
+
+Hoang 6494​
+​em prompt nó là: Object và property có liên quan gì với nhau không
+
+Object và attribute có liên quan gì với nhau không
+
+***
+Vu Le​​A làm tại đà nẵng à?
+bí mật
+
+***
+
+cách nhớ hai vấn đề tương tự nhau:
+chỉ nên một vấn đề rồi suy ngược
+nếu nhớ cùng lúc hai cái giống nhau sẽ bị nhầm
+(cách nhớ ...)
+
+***
+
+Hoang 6494​
+​đố anh nha, có cách nào chia sẽ private giữa các lớp với nhau ko?
+
+trong unity đặt tên biến có tầm vực là private thì vẫn chia sẽ biến đó lên unity engine từ file Script.cs, mặc dù trong file Script.cs biến đó được đặt là private
+
+***
+Hoang 6494​
+​như anh thấy tụi nó có kiểu dữ liệu khác nhau trong cùng 1 list, có cách nào để ép nó về chung một kiểu ko ạ.
+
+***
+
+Bài ví dụ chó gà mèo để học oop (python)
+
+Hoang 6494​
+​Khi một list có kiểu cho ga meo. Thì list đó đang chứa kiểu dữ liệu gì?
+
+
+
+***
+
+Hoang 6494​
+​đố anh nha, có cách nào chia sẽ private giữa các lớp với nhau ko?
+
+type(dong_vat) thì ra cái gì, ra khác kiểu
+cách ép về cùng một kiểu
+
+
+***
+Hữu Sơn
+Hội viên mới
+​​Làm báo cáo là làm những gì v a
+
+Bài báo cáo file word và project
+
+***
+level 2: video chỉ dành cho hội viên
+phải để dành vài video cho hội viên (game)
+
+
+***
+Hữu Sơn
+Hội viên mới
+​​Em đang đi học ạ, 2k7 năm nhất a :))((
+
+có bạn Hùng 2k7 (cơ điện tử, bán dẫn)
+
+
+kĩ thuật phần mềm
+(công nghệ phần mềm)
+học làm web, app, game
+
+
+***
+Hữu Sơn
+Hội viên mới
+​​E đang muốn hướng tới làm app mobile ạ
+
+ios: swift
+android: java
+
+c#: ios android (blazor hybrid maui)
+
+làm game unity (c#) tiện thể học luôn c# để code ios android (blazor hybrid maui)
+
+c++ làm game code thuần c++ không dùng engine
+
+khi còn đang đi học chúng ta nên học rộng ra
+một công ty có thể yêu cầu chúng ta làm nhiều mảng khác nhau
+
+fullstack: frontend + backend
+
+
+c++ dùng học nền tảng
+
+***
